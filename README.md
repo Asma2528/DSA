@@ -8,3 +8,4 @@
 | 1 | N-Queens | [Link](https://leetcode.com/problems/n-queens/) | Arrays | [N-Queens.java](src/arrays\N-Queens.java) |
 | 1 | N-Queens II | [Link](https://leetcode.com/problems/n-queens-ii/) | Arrays | [N-QueensII.java](src/arrays\N-QueensII.java) |
 | 1 | Plus One | [Link](https://leetcode.com/problems/plus-one/) | Arrays | [PlusOne.java](src/arrays\PlusOne.java) |
+| 1 | Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Arrays | [BestTimetoBuyandSellStock.java](src/arrays\BestTimetoBuyandSellStock.java) |
