@@ -34,7 +34,11 @@ if not os.path.exists(readme_path):
 # Count current problems
 with open(readme_path, "r") as f:
     lines = f.readlines()
-    count = sum(1 for line in lines if line.startswith("|") and line[1].isdigit())
+    count = 0
+    for line in lines:
+        parts = line.strip().split("|")
+        if len(parts) >= 5 and parts[1].strip().isdigit():
+            count = max(count, int(parts[1].strip()))
 
 with open(readme_path, "a") as f:
     f.write(f"| {count + 1} | {problem_title} | [Link]({url}) | {topic.capitalize()} | [{file_name}]({file_path}) |\n")
