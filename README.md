@@ -16,3 +16,4 @@
 | 10 | Swap Nodes in Pairs | [Link](https://leetcode.com/problems/swap-nodes-in-pairs) | Linkedlist | [SwapNodesinPairs.java](src/linkedlist\SwapNodesinPairs.java) |
 | 11 | Palindrome Linked List | [Link](https://leetcode.com/problems/palindrome-linked-list) | Linkedlist | [PalindromeLinkedList.java](src/linkedlist\PalindromeLinkedList.java) |
 | 12 | Remove Linked list elements | [Link](https://leetcode.com/problems/remove-linked-list-elements) | Linkedlist | [RemoveLinkedlistelements.java](src/linkedlist\RemoveLinkedlistelements.java) |
+| 13 | Reverse Linked List | [Link](https://leetcode.com/problems/reverse-linked-list) | Linkedlist | [ReverseLinkedList.java](src/linkedlist\ReverseLinkedList.java) |
