@@ -20,3 +20,4 @@
 | 16 | Linked list cycle 2 | [Link](https://leetcode.com/problems/linked-list-cycle-ii) | Linkedlist | [Linkedlistcycle2.java](src/linkedlist\Linkedlistcycle2.java) |
 | 17 | Rotate List | [Link](https://leetcode.com/problems/rotate-list) | Linkedlist | [RotateList.java](src/linkedlist\RotateList.java) |
 | 18 | Delete the Middle Node of a Linked List | [Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Linkedlist | [DeletetheMiddleNodeofaLinkedList.java](src/linkedlist\DeletetheMiddleNodeofaLinkedList.java) |
+| 19 | Convert Binary Number in a Linked List to Integer | [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linkedlist | [ConvertBinaryNumberinaLinkedListtoInteger.java](src/linkedlist\ConvertBinaryNumberinaLinkedListtoInteger.java) |
