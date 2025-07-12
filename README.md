@@ -22,3 +22,4 @@
 | 18 | Delete the Middle Node of a Linked List | [Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Linkedlist | [DeletetheMiddleNodeofaLinkedList.java](src/linkedlist\DeletetheMiddleNodeofaLinkedList.java) |
 | 19 | Convert Binary Number in a Linked List to Integer | [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linkedlist | [ConvertBinaryNumberinaLinkedListtoInteger.java](src/linkedlist\ConvertBinaryNumberinaLinkedListtoInteger.java) |
 | 20 | Remove Nodes From Linked List | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list) | Linkedlist | [RemoveNodesFromLinkedList.java](src/linkedlist\RemoveNodesFromLinkedList.java) |
+| 21 | Merge Two Sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists) | Linkedlist | [MergeTwoSortedlists.java](src/linkedlist\MergeTwoSortedlists.java) |
