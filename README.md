@@ -24,3 +24,4 @@
 | 20 | Remove Nodes From Linked List | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list) | Linkedlist | [RemoveNodesFromLinkedList.java](src/linkedlist\RemoveNodesFromLinkedList.java) |
 | 21 | Merge Two Sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists) | Linkedlist | [MergeTwoSortedlists.java](src/linkedlist\MergeTwoSortedlists.java) |
 | 22 | Remove Duplicates from sorted ist | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Linkedlist | [RemoveDuplicatesfromsortedist.java](src/linkedlist\RemoveDuplicatesfromsortedist.java) |
+| 23 | Delete Node in a Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list) | Linkedlist | [DeleteNodeinaLinkedList.java](src/linkedlist\DeleteNodeinaLinkedList.java) |
