@@ -27,3 +27,4 @@
 | 23 | Delete Node in a Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list) | Linkedlist | [DeleteNodeinaLinkedList.java](src/linkedlist\DeleteNodeinaLinkedList.java) |
 | 24 | Remove Duplicates from Sorted List II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Linkedlist | [RemoveDuplicatesfromSortedListII.java](src/linkedlist\RemoveDuplicatesfromSortedListII.java) |
 | 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack\BaseballGame.java) |
+| 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack\BackspaceStringCompare.java) |
