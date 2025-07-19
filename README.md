@@ -26,3 +26,4 @@
 | 22 | Remove Duplicates from sorted ist | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Linkedlist | [RemoveDuplicatesfromsortedist.java](src/linkedlist\RemoveDuplicatesfromsortedist.java) |
 | 23 | Delete Node in a Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list) | Linkedlist | [DeleteNodeinaLinkedList.java](src/linkedlist\DeleteNodeinaLinkedList.java) |
 | 24 | Remove Duplicates from Sorted List II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Linkedlist | [RemoveDuplicatesfromSortedListII.java](src/linkedlist\RemoveDuplicatesfromSortedListII.java) |
+| 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack\BaseballGame.java) |
