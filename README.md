@@ -28,3 +28,4 @@
 | 24 | Remove Duplicates from Sorted List II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Linkedlist | [RemoveDuplicatesfromSortedListII.java](src/linkedlist\RemoveDuplicatesfromSortedListII.java) |
 | 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack\BaseballGame.java) |
 | 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack\BackspaceStringCompare.java) |
+| 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack\ClearDigits.java) |
