@@ -29,3 +29,4 @@
 | 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack\BaseballGame.java) |
 | 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack\BackspaceStringCompare.java) |
 | 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack\ClearDigits.java) |
+| 28 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) | Stack | [MinStack.java](src/stack\MinStack.java) |
