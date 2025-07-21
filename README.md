@@ -30,3 +30,4 @@
 | 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack\BackspaceStringCompare.java) |
 | 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack\ClearDigits.java) |
 | 28 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) | Stack | [MinStack.java](src/stack\MinStack.java) |
+| 29 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position) | Arrays | [SearchInsertPosition.java](src/arrays\SearchInsertPosition.java) |
