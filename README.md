@@ -34,3 +34,4 @@
 | 30 | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array) | Array | [MergeSortedArray.java](src/array\MergeSortedArray.java) |
 | 31 | Remove Duplicates from sorted array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Array | [RemoveDuplicatesfromsortedarray.java](src/array\RemoveDuplicatesfromsortedarray.java) |
 | 32 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number) | Math | [PalindromeNumber.java](src/math\PalindromeNumber.java) |
+| 33 | Rotate Array | [Link](https://leetcode.com/problems/rotate-array) | Arrays | [RotateArray.java](src/arrays\RotateArray.java) |
