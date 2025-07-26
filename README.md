@@ -39,3 +39,4 @@
 | 35 | Check if its a straight line | [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Arrays | [Checkifitsastraightline.java](src/arrays\Checkifitsastraightline.java) |
 | 36 | Binary Search | [Link](https://leetcode.com/problems/binary-search) | Arrays | [BinarySearch.java](src/arrays\BinarySearch.java) |
 | 37 | Intersection of two arrays | [Link](https://leetcode.com/problems/intersection-of-two-arrays) | Arrays | [Intersectionoftwoarrays.java](src/arrays\Intersectionoftwoarrays.java) |
+| 38 | Intersection of Two Arrays II | [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [IntersectionofTwoArraysII.java](src/arrays\IntersectionofTwoArraysII.java) |
