@@ -37,3 +37,4 @@
 | 33 | Rotate Array | [Link](https://leetcode.com/problems/rotate-array) | Arrays | [RotateArray.java](src/arrays\RotateArray.java) |
 | 34 | Move Zeroes | [Link](https://leetcode.com/problems/move-zeroes/) | Arrays | [MoveZeroes.java](src/arrays\MoveZeroes.java) |
 | 35 | Check if its a straight line | [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Arrays | [Checkifitsastraightline.java](src/arrays\Checkifitsastraightline.java) |
+| 36 | Binary Search | [Link](https://leetcode.com/problems/binary-search) | Arrays | [BinarySearch.java](src/arrays\BinarySearch.java) |
