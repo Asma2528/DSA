@@ -31,8 +31,8 @@
 | 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack\ClearDigits.java) |
 | 28 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) | Stack | [MinStack.java](src/stack\MinStack.java) |
 | 29 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position) | Arrays | [SearchInsertPosition.java](src/arrays\SearchInsertPosition.java) |
-| 30 | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array) | Array | [MergeSortedArray.java](src/array\MergeSortedArray.java) |
-| 31 | Remove Duplicates from sorted array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Array | [RemoveDuplicatesfromsortedarray.java](src/array\RemoveDuplicatesfromsortedarray.java) |
+| 30 | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array) | Arrays | [MergeSortedArray.java](src/array\MergeSortedArray.java) |
+| 31 | Remove Duplicates from sorted array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Arrays | [RemoveDuplicatesfromsortedarray.java](src/array\RemoveDuplicatesfromsortedarray.java) |
 | 32 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number) | Math | [PalindromeNumber.java](src/math\PalindromeNumber.java) |
 | 33 | Rotate Array | [Link](https://leetcode.com/problems/rotate-array) | Arrays | [RotateArray.java](src/arrays\RotateArray.java) |
 | 34 | Move Zeroes | [Link](https://leetcode.com/problems/move-zeroes/) | Arrays | [MoveZeroes.java](src/arrays\MoveZeroes.java) |
