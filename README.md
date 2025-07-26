@@ -40,3 +40,4 @@
 | 36 | Binary Search | [Link](https://leetcode.com/problems/binary-search) | Arrays | [BinarySearch.java](src/arrays\BinarySearch.java) |
 | 37 | Intersection of two arrays | [Link](https://leetcode.com/problems/intersection-of-two-arrays) | Arrays | [Intersectionoftwoarrays.java](src/arrays\Intersectionoftwoarrays.java) |
 | 38 | Intersection of Two Arrays II | [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [IntersectionofTwoArraysII.java](src/arrays\IntersectionofTwoArraysII.java) |
+| 39 | Sum of unique elements | [Link](https://leetcode.com/problems/sum-of-unique-elements) | Arrays | [Sumofuniqueelements.java](src/arrays\Sumofuniqueelements.java) |
