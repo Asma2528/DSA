@@ -44,3 +44,4 @@
 | 40 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) | Arrays | [MissingNumber.java](src/arrays\MissingNumber.java) |
 | 41 | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones) | Arrays | [MaxConsecutiveOnes.java](src/arrays\MaxConsecutiveOnes.java) |
 | 42 | Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate) | Arrays | [ContainsDuplicate.java](src/arrays\ContainsDuplicate.java) |
+| 43 | Longest Continuous Increasing Subsequence | [Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Arrays | [LongestContinuousIncreasingSubsequence.java](src/arrays\LongestContinuousIncreasingSubsequence.java) |
