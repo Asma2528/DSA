@@ -42,3 +42,4 @@
 | 38 | Intersection of Two Arrays II | [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays | [IntersectionofTwoArraysII.java](src/arrays\IntersectionofTwoArraysII.java) |
 | 39 | Sum of unique elements | [Link](https://leetcode.com/problems/sum-of-unique-elements) | Arrays | [Sumofuniqueelements.java](src/arrays\Sumofuniqueelements.java) |
 | 40 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) | Arrays | [MissingNumber.java](src/arrays\MissingNumber.java) |
+| 41 | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones) | Arrays | [MaxConsecutiveOnes.java](src/arrays\MaxConsecutiveOnes.java) |
