@@ -43,3 +43,4 @@
 | 39 | Sum of unique elements | [Link](https://leetcode.com/problems/sum-of-unique-elements) | Arrays | [Sumofuniqueelements.java](src/arrays\Sumofuniqueelements.java) |
 | 40 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) | Arrays | [MissingNumber.java](src/arrays\MissingNumber.java) |
 | 41 | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones) | Arrays | [MaxConsecutiveOnes.java](src/arrays\MaxConsecutiveOnes.java) |
+| 42 | Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate) | Arrays | [ContainsDuplicate.java](src/arrays\ContainsDuplicate.java) |
