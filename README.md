@@ -46,3 +46,4 @@
 | 42 | Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate) | Arrays | [ContainsDuplicate.java](src/arrays\ContainsDuplicate.java) |
 | 43 | Longest Continuous Increasing Subsequence | [Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Arrays | [LongestContinuousIncreasingSubsequence.java](src/arrays\LongestContinuousIncreasingSubsequence.java) |
 | 44 | Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array) | Arrays | [ConcatenationofArray.java](src/arrays\ConcatenationofArray.java) |
+| 45 | Contains Duplicate II | [Link](https://leetcode.com/problems/contains-duplicate-ii) | Arrays | [ContainsDuplicateII.java](src/arrays\ContainsDuplicateII.java) |
