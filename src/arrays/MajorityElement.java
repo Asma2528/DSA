@@ -3,7 +3,7 @@ class Solution {
     public int majorityElement(int[] nums) {
         // Brute force approach
         // TC - O(n)
-        // SC - O(1)
+        // SC - O(n)
         // HashMap<Integer,Integer> map=new HashMap<>();
         // int n=nums.length;
 
