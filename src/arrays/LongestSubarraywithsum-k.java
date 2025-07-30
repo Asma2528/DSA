@@ -4,7 +4,7 @@ class Solution {
     public int longestSubarray(int[] arr, int k) {
         // Sliding window (Only for positive numbers)
         // Optimal approach (but o)
-        // TC - O(n^2)
+        // TC - O(n)
         // SC - O(1)
         int sum = 0;
         int longest = 0;
