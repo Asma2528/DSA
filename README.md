@@ -48,3 +48,4 @@
 | 44 | Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array) | Arrays | [ConcatenationofArray.java](src/arrays\ConcatenationofArray.java) |
 | 45 | Contains Duplicate II | [Link](https://leetcode.com/problems/contains-duplicate-ii) | Arrays | [ContainsDuplicateII.java](src/arrays\ContainsDuplicateII.java) |
 | 46 | Majority Element | [Link](https://leetcode.com/problems/majority-element) | Arrays | [MajorityElement.java](src/arrays\MajorityElement.java) |
+| 47 | Longest Sub array with sum - k | [Link](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Arrays | [LongestSubarraywithsum-k.java](src/arrays\LongestSubarraywithsum-k.java) |
