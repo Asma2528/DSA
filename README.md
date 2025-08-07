@@ -51,3 +51,4 @@
 | 47 | Longest Sub array with sum - k | [Link](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Arrays | [LongestSubarraywithsum-k.java](src/arrays\LongestSubarraywithsum-k.java) |
 | 48 | Subarray sum equals k | [Link](https://leetcode.com/problems/subarray-sum-equals-k) | Arrays | [Subarraysumequalsk.java](src/arrays\Subarraysumequalsk.java) |
 | 49 | Maximum Subarray | [Link](https://leetcode.com/problems/maximum-subarray/) | Arrays | [MaximumSubarray.java](src/arrays\MaximumSubarray.java) |
+| 50 | Sort Colors | [Link](https://leetcode.com/problems/sort-colors) | Arrays | [SortColors.java](src/arrays\SortColors.java) |
