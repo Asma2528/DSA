@@ -52,3 +52,4 @@
 | 48 | Subarray sum equals k | [Link](https://leetcode.com/problems/subarray-sum-equals-k) | Arrays | [Subarraysumequalsk.java](src/arrays\Subarraysumequalsk.java) |
 | 49 | Maximum Subarray | [Link](https://leetcode.com/problems/maximum-subarray/) | Arrays | [MaximumSubarray.java](src/arrays\MaximumSubarray.java) |
 | 50 | Sort Colors | [Link](https://leetcode.com/problems/sort-colors) | Arrays | [SortColors.java](src/arrays\SortColors.java) |
+| 51 | Two Sum II - Input array is sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Arrays | [TwoSumII-Inputarrayissorted.java](src/arrays\TwoSumII-Inputarrayissorted.java) |
