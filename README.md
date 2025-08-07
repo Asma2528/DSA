@@ -54,3 +54,4 @@
 | 50 | Sort Colors | [Link](https://leetcode.com/problems/sort-colors) | Arrays | [SortColors.java](src/arrays\SortColors.java) |
 | 51 | Two Sum II - Input array is sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Arrays | [TwoSumII-Inputarrayissorted.java](src/arrays\TwoSumII-Inputarrayissorted.java) |
 | 52 | Majority Element II | [Link](https://leetcode.com/problems/majority-element-ii) | Arrays | [MajorityElementII.java](src/arrays\MajorityElementII.java) |
+| 53 | Maximum Ascending subarray sum | [Link](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Arrays | [MaximumAscendingsubarraysum.java](src/arrays\MaximumAscendingsubarraysum.java) |
