@@ -60,3 +60,4 @@
 | 56 | Array Leaders | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Arrays | [ArrayLeaders.java](src/arrays\ArrayLeaders.java) |
 | 57 | Next permutation | [Link](https://leetcode.com/problems/next-permutation) | Arrays | [Nextpermutation.java](src/arrays\Nextpermutation.java) |
 | 58 | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence) | Arrays | [LongestConsecutiveSequence.java](src/arrays\LongestConsecutiveSequence.java) |
+| 59 | Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | Arrays | [SetMatrixZeroes.java](src/arrays\SetMatrixZeroes.java) |
