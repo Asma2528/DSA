@@ -58,3 +58,4 @@
 | 54 | Rearrange Array Elements by Sign | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign) | Arrays | [RearrangeArrayElementsbySign.java](src/arrays\RearrangeArrayElementsbySign.java) |
 | 55 | Alternating Digit Sum | [Link](https://leetcode.com/problems/alternating-digit-sum) | Arrays | [AlternatingDigitSum.java](src/arrays\AlternatingDigitSum.java) |
 | 56 | Array Leaders | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Arrays | [ArrayLeaders.java](src/arrays\ArrayLeaders.java) |
+| 57 | Next permutation | [Link](https://leetcode.com/problems/next-permutation) | Arrays | [Nextpermutation.java](src/arrays\Nextpermutation.java) |
