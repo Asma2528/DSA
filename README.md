@@ -63,3 +63,4 @@
 | 59 | Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | Arrays | [SetMatrixZeroes.java](src/arrays\SetMatrixZeroes.java) |
 | 60 | Transpose Matrix | [Link](https://leetcode.com/problems/transpose-matrix) | Arrays | [TransposeMatrix.java](src/arrays\TransposeMatrix.java) |
 | 61 | Rotate Image | [Link](https://leetcode.com/problems/rotate-image) | Arrays | [RotateImage.java](src/arrays\RotateImage.java) |
+| 62 | Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) | Arrays | [SpiralMatrix.java](src/arrays\SpiralMatrix.java) |
