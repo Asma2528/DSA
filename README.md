@@ -61,3 +61,4 @@
 | 57 | Next permutation | [Link](https://leetcode.com/problems/next-permutation) | Arrays | [Nextpermutation.java](src/arrays\Nextpermutation.java) |
 | 58 | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence) | Arrays | [LongestConsecutiveSequence.java](src/arrays\LongestConsecutiveSequence.java) |
 | 59 | Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | Arrays | [SetMatrixZeroes.java](src/arrays\SetMatrixZeroes.java) |
+| 60 | Transpose Matrix | [Link](https://leetcode.com/problems/transpose-matrix) | Arrays | [TransposeMatrix.java](src/arrays\TransposeMatrix.java) |
