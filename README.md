@@ -67,3 +67,4 @@
 | 63 | Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii) | Arrays | [SpiralMatrixII.java](src/arrays\SpiralMatrixII.java) |
 | 64 | Pascal Triangle | [Link](https://takeuforward.org/plus/dsa/problems/pascals-triangle-i) | Arrays | [PascalTriangle.java](src/arrays\PascalTriangle.java) |
 | 65 | Pascal's Triangle II | [Link](https://leetcode.com/problems/pascals-triangle-ii) | Arrays | [Pascal'sTriangleII.java](src/arrays\Pascal'sTriangleII.java) |
+| 66 | Pascal's Triangle | [Link](https://leetcode.com/problems/pascals-triangle) | Arrays | [Pascal'sTriangle.java](src/arrays\Pascal'sTriangle.java) |
