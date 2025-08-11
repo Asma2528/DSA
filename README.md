@@ -65,3 +65,4 @@
 | 61 | Rotate Image | [Link](https://leetcode.com/problems/rotate-image) | Arrays | [RotateImage.java](src/arrays\RotateImage.java) |
 | 62 | Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) | Arrays | [SpiralMatrix.java](src/arrays\SpiralMatrix.java) |
 | 63 | Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii) | Arrays | [SpiralMatrixII.java](src/arrays\SpiralMatrixII.java) |
+| 64 | Pascal Triangle | [Link](https://takeuforward.org/plus/dsa/problems/pascals-triangle-i) | Arrays | [PascalTriangle.java](src/arrays\PascalTriangle.java) |
