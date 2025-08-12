@@ -68,3 +68,4 @@
 | 64 | Pascal Triangle | [Link](https://takeuforward.org/plus/dsa/problems/pascals-triangle-i) | Arrays | [PascalTriangle.java](src/arrays\PascalTriangle.java) |
 | 65 | Pascal's Triangle II | [Link](https://leetcode.com/problems/pascals-triangle-ii) | Arrays | [Pascal'sTriangleII.java](src/arrays\Pascal'sTriangleII.java) |
 | 66 | Pascal's Triangle | [Link](https://leetcode.com/problems/pascals-triangle) | Arrays | [Pascal'sTriangle.java](src/arrays\Pascal'sTriangle.java) |
+| 67 | 3Sum | [Link](https://leetcode.com/problems/3sum) | Arrays | [3Sum.java](src/arrays\3Sum.java) |
