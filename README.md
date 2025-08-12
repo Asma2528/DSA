@@ -70,3 +70,4 @@
 | 66 | Pascal's Triangle | [Link](https://leetcode.com/problems/pascals-triangle) | Arrays | [Pascal'sTriangle.java](src/arrays\Pascal'sTriangle.java) |
 | 67 | 3Sum | [Link](https://leetcode.com/problems/3sum) | Arrays | [3Sum.java](src/arrays\3Sum.java) |
 | 68 | 3Sum Closest | [Link](https://leetcode.com/problems/3sum-closest) | Arrays | [3SumClosest.java](src/arrays\3SumClosest.java) |
+| 69 | 4Sum | [Link](https://leetcode.com/problems/4sum) | Arrays | [4Sum.java](src/arrays\4Sum.java) |
