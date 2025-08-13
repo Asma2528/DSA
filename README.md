@@ -73,3 +73,4 @@
 | 69 | 4Sum | [Link](https://leetcode.com/problems/4sum) | Arrays | [4Sum.java](src/arrays\4Sum.java) |
 | 70 | Count subarrays with given XOR | [Link](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Arrays | [CountsubarrayswithgivenXOR.java](src/arrays\CountsubarrayswithgivenXOR.java) |
 | 71 | Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals) | Arrays | [MergeIntervals.java](src/arrays\MergeIntervals.java) |
+| 72 | Non-overlapping intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals) | Arrays | [Non-overlappingintervals.java](src/arrays\Non-overlappingintervals.java) |
