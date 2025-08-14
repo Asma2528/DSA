@@ -75,3 +75,4 @@
 | 71 | Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals) | Arrays | [MergeIntervals.java](src/arrays\MergeIntervals.java) |
 | 72 | Non-overlapping intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals) | Arrays | [Non-overlappingintervals.java](src/arrays\Non-overlappingintervals.java) |
 | 73 | Merge Without Extra Space | [Link](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Arrays | [MergeWithoutExtraSpace.java](src/arrays\MergeWithoutExtraSpace.java) |
+| 74 | Sort an array | [Link](https://leetcode.com/problems/sort-an-array) | Arrays | [Sortanarray.java](src/arrays\Sortanarray.java) |
