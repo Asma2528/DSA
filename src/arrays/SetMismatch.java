@@ -124,10 +124,22 @@ class Solution {
 
         // 1. Math Approach
         // Pros:
-        // Conceptually straightforward � based on sum and sum of squares formulas.
+        // Conceptually straightforward � based on sum and sum of squares formulas.
         // Works in exactly O(n) time (single pass).
         // Easy to understand mathematically.
 
         // Cons:
         // Vulnerable to overflow if numbers are large (needs explicit long or even BigInteger in extreme cases).
         // Floating-point methods (if used) can lose precision.
+        // Slightly more memory-safety risk unless you carefully cast before multiplications.
+
+        // 2. XOR Approach
+        // Pros:
+        // No overflow risk — XOR works purely at bit level.
+        // Always integer-safe (as long as numbers fit in int).
+        // Works for very large n where math approach might overflow.
+
+        // Cons:
+        // Slightly harder to understand for beginners.
+        // Two passes over the array O(2n) or O(3n), but still linear.
+        // More “bit trick” dependent
