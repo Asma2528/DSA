@@ -77,3 +77,4 @@
 | 73 | Merge Without Extra Space | [Link](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Arrays | [MergeWithoutExtraSpace.java](src/arrays\MergeWithoutExtraSpace.java) |
 | 74 | Sort an array | [Link](https://leetcode.com/problems/sort-an-array) | Arrays | [Sortanarray.java](src/arrays\Sortanarray.java) |
 | 75 | Count Inversions | [Link](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | Arrays | [CountInversions.java](src/arrays\CountInversions.java) |
+| 76 | Reverse Pairs | [Link](https://leetcode.com/problems/reverse-pairs) | Arrays | [ReversePairs.java](src/arrays\ReversePairs.java) |
