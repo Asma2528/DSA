@@ -82,3 +82,4 @@
 | 78 | Find Missing and Repeated Values | [Link](https://leetcode.com/problems/find-missing-and-repeated-values/) | Arrays | [FindMissingandRepeatedValues.java](src/arrays\FindMissingandRepeatedValues.java) |
 | 79 | Binary Search | [Link](https://leetcode.com/problems/binary-search/) | Arrays | [BinarySearch.java](src/arrays\BinarySearch.java) |
 | 80 | Implement Lower Bound | [Link](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Arrays | [ImplementLowerBound.java](src/arrays\ImplementLowerBound.java) |
+| 81 | Implement Upper Bound | [Link](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Arrays | [ImplementUpperBound.java](src/arrays\ImplementUpperBound.java) |
