@@ -86,3 +86,4 @@
 | 82 | Ceil the floor | [Link](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1) | Arrays | [Ceilthefloor.java](src/arrays\Ceilthefloor.java) |
 | 83 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position) | Arrays | [SearchInsertPosition.java](src/arrays\SearchInsertPosition.java) |
 | 84 | Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Arrays | [FindFirstandLastPositionofElementinSortedArray.java](src/arrays\FindFirstandLastPositionofElementinSortedArray.java) |
+| 85 | Number of occurrence | [Link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Arrays | [Numberofoccurrence.java](src/arrays\Numberofoccurrence.java) |
