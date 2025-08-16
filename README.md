@@ -80,3 +80,4 @@
 | 76 | Reverse Pairs | [Link](https://leetcode.com/problems/reverse-pairs) | Arrays | [ReversePairs.java](src/arrays\ReversePairs.java) |
 | 77 | Set Mismatch | [Link](https://leetcode.com/problems/set-mismatch/) | Arrays | [SetMismatch.java](src/arrays\SetMismatch.java) |
 | 78 | Find Missing and Repeated Values | [Link](https://leetcode.com/problems/find-missing-and-repeated-values/) | Arrays | [FindMissingandRepeatedValues.java](src/arrays\FindMissingandRepeatedValues.java) |
+| 79 | Binary Search | [Link](https://leetcode.com/problems/binary-search/) | Arrays | [BinarySearch.java](src/arrays\BinarySearch.java) |
