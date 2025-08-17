@@ -91,3 +91,4 @@
 | 87 | Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Arrays | [SearchinRotatedSortedArrayII.java](src/arrays\SearchinRotatedSortedArrayII.java) |
 | 88 | Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Arrays | [FindMinimuminRotatedSortedArray.java](src/arrays\FindMinimuminRotatedSortedArray.java) |
 | 89 | Find Minimum in Rotated Sorted Array II | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Arrays | [FindMinimuminRotatedSortedArrayII.java](src/arrays\FindMinimuminRotatedSortedArrayII.java) |
+| 90 | Check if Array Is Sorted and Rotated | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Arrays | [CheckifArrayIsSortedandRotated.java](src/arrays\CheckifArrayIsSortedandRotated.java) |
