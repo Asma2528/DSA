@@ -96,3 +96,4 @@
 | 92 | Single Element in Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Arrays | [SingleElementinSortedArray.java](src/arrays\SingleElementinSortedArray.java) |
 | 93 | Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element) | Arrays | [FindPeakElement.java](src/arrays\FindPeakElement.java) |
 | 94 | Find the Peaks | [Link](https://leetcode.com/problems/find-the-peaks/) | Arrays | [FindthePeaks.java](src/arrays\FindthePeaks.java) |
+| 95 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | Arrays | [Sqrt(x).java](src/arrays\Sqrt(x).java) |
