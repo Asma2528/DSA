@@ -94,3 +94,4 @@
 | 90 | Check if Array Is Sorted and Rotated | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Arrays | [CheckifArrayIsSortedandRotated.java](src/arrays\CheckifArrayIsSortedandRotated.java) |
 | 91 | Find Kth Rotation | [Link](https://www.geeksforgeeks.org/problems/rotation4723/1) | Arrays | [FindKthRotation.java](src/arrays\FindKthRotation.java) |
 | 92 | Single Element in Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Arrays | [SingleElementinSortedArray.java](src/arrays\SingleElementinSortedArray.java) |
+| 93 | Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element) | Arrays | [FindPeakElement.java](src/arrays\FindPeakElement.java) |
