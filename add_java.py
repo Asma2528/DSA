@@ -21,9 +21,11 @@ folder_path = f"src/{topic.lower()}"
 os.makedirs(folder_path, exist_ok=True)
 file_path = os.path.join(folder_path, file_name)
 
-with open(file_path, "w") as f:
+# Specify UTF-8 encoding when opening the file for writing
+with open(file_path, "w", encoding="utf-8") as f:
     f.write(f"// Problem: {url}\n")
     f.write(code)
+
 
 # === Update README.md ===
 readme_path = "README.md"
