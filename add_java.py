@@ -5,7 +5,7 @@ import subprocess
 problem_title = input("Enter problem title (e.g., Two Sum): ")
 file_name = problem_title.replace(" ", "") + ".java"
 topic = input("Enter topic (e.g., arrays, strings, dp): ")
-url = input("Enter LeetCode URL: ")
+url = input("Enter URL: ")
 
 print("Paste your Java solution below (end input with `END` on a new line):")
 code_lines = []
@@ -29,7 +29,7 @@ with open(file_path, "w") as f:
 readme_path = "README.md"
 if not os.path.exists(readme_path):
     with open(readme_path, "w") as f:
-        f.write("# 💻 LeetCode DSA Java Solutions\n\n| # | Problem | Link | Topic | Code |\n|--|---------|------|--------|------|\n")
+        f.write("# 💻 DSA Java Solutions\n\n| # | Problem | Link | Topic | Code |\n|--|---------|------|--------|------|\n")
 
 # Count current problems
 with open(readme_path, "r") as f:

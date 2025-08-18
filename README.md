@@ -1,4 +1,4 @@
-# 💻 LeetCode DSA Java Solutions
+# 💻 DSA Java Solutions
 
 | # | Problem | Link | Topic | Code |
 |--|---------|------|--------|------|
