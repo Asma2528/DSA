@@ -97,3 +97,4 @@
 | 93 | Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element) | Arrays | [FindPeakElement.java](src/arrays\FindPeakElement.java) |
 | 94 | Find the Peaks | [Link](https://leetcode.com/problems/find-the-peaks/) | Arrays | [FindthePeaks.java](src/arrays\FindthePeaks.java) |
 | 95 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | Arrays | [Sqrt(x).java](src/arrays\Sqrt(x).java) |
+| 96 | Find nth root of m | [Link](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Arrays | [Findnthrootofm.java](src/arrays\Findnthrootofm.java) |
