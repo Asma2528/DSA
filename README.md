@@ -99,3 +99,4 @@
 | 95 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | Arrays | [Sqrt(x).java](src/arrays\Sqrt(x).java) |
 | 96 | Find nth root of m | [Link](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Arrays | [Findnthrootofm.java](src/arrays\Findnthrootofm.java) |
 | 97 | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas) | Arrays | [KokoEatingBananas.java](src/arrays\KokoEatingBananas.java) |
+| 98 | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Arrays | [MinimumNumberofDaystoMakemBouquets.java](src/arrays\MinimumNumberofDaystoMakemBouquets.java) |
