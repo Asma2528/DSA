@@ -102,3 +102,4 @@
 | 98 | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Arrays | [MinimumNumberofDaystoMakemBouquets.java](src/arrays\MinimumNumberofDaystoMakemBouquets.java) |
 | 99 | Find the Smallest Divisor Given a Threshold | [Link](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Arrays | [FindtheSmallestDivisorGivenaThreshold.java](src/arrays\FindtheSmallestDivisorGivenaThreshold.java) |
 | 100 | Capacity to ship packages within D Days | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Arrays | [CapacitytoshippackageswithinDDays.java](src/arrays\CapacitytoshippackageswithinDDays.java) |
+| 101 | Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | Arrays | [KthMissingPositiveNumber.java](src/arrays\KthMissingPositiveNumber.java) |
