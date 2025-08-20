@@ -105,3 +105,4 @@
 | 101 | Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | Binary Search | [KthMissingPositiveNumber.java](src/arrays\KthMissingPositiveNumber.java) |
 | 102 | Aggressive Cows | [Link](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Binary Search | [AggressiveCows.java](src/arrays\AggressiveCows.java) |
 | 103 | Magnetic Force Between Two Balls | [Link](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Binary Search | [MagneticForceBetweenTwoBalls.java](src/arrays\MagneticForceBetweenTwoBalls.java) |
+| 104 | Allocate Minimum Pages | [Link](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Binary search | [AllocateMinimumPages.java](src/binary search\AllocateMinimumPages.java) |
