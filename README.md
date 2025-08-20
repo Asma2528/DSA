@@ -104,3 +104,4 @@
 | 100 | Capacity to ship packages within D Days | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Arrays | [CapacitytoshippackageswithinDDays.java](src/arrays\CapacitytoshippackageswithinDDays.java) |
 | 101 | Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | Arrays | [KthMissingPositiveNumber.java](src/arrays\KthMissingPositiveNumber.java) |
 | 102 | Aggressive Cows | [Link](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Arrays | [AggressiveCows.java](src/arrays\AggressiveCows.java) |
+| 103 | Magnetic Force Between Two Balls | [Link](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Arrays | [MagneticForceBetweenTwoBalls.java](src/arrays\MagneticForceBetweenTwoBalls.java) |
