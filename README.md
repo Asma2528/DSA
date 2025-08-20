@@ -80,28 +80,28 @@
 | 76 | Reverse Pairs | [Link](https://leetcode.com/problems/reverse-pairs) | Arrays | [ReversePairs.java](src/arrays\ReversePairs.java) |
 | 77 | Set Mismatch | [Link](https://leetcode.com/problems/set-mismatch/) | Arrays | [SetMismatch.java](src/arrays\SetMismatch.java) |
 | 78 | Find Missing and Repeated Values | [Link](https://leetcode.com/problems/find-missing-and-repeated-values/) | Arrays | [FindMissingandRepeatedValues.java](src/arrays\FindMissingandRepeatedValues.java) |
-| 79 | Binary Search | [Link](https://leetcode.com/problems/binary-search/) | Arrays | [BinarySearch.java](src/arrays\BinarySearch.java) |
-| 80 | Implement Lower Bound | [Link](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Arrays | [ImplementLowerBound.java](src/arrays\ImplementLowerBound.java) |
-| 81 | Implement Upper Bound | [Link](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Arrays | [ImplementUpperBound.java](src/arrays\ImplementUpperBound.java) |
-| 82 | Ceil the floor | [Link](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1) | Arrays | [Ceilthefloor.java](src/arrays\Ceilthefloor.java) |
-| 83 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position) | Arrays | [SearchInsertPosition.java](src/arrays\SearchInsertPosition.java) |
-| 84 | Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Arrays | [FindFirstandLastPositionofElementinSortedArray.java](src/arrays\FindFirstandLastPositionofElementinSortedArray.java) |
-| 85 | Number of occurrence | [Link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Arrays | [Numberofoccurrence.java](src/arrays\Numberofoccurrence.java) |
-| 86 | Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Arrays | [SearchinRotatedSortedArray.java](src/arrays\SearchinRotatedSortedArray.java) |
-| 87 | Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Arrays | [SearchinRotatedSortedArrayII.java](src/arrays\SearchinRotatedSortedArrayII.java) |
-| 88 | Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Arrays | [FindMinimuminRotatedSortedArray.java](src/arrays\FindMinimuminRotatedSortedArray.java) |
-| 89 | Find Minimum in Rotated Sorted Array II | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Arrays | [FindMinimuminRotatedSortedArrayII.java](src/arrays\FindMinimuminRotatedSortedArrayII.java) |
-| 90 | Check if Array Is Sorted and Rotated | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Arrays | [CheckifArrayIsSortedandRotated.java](src/arrays\CheckifArrayIsSortedandRotated.java) |
-| 91 | Find Kth Rotation | [Link](https://www.geeksforgeeks.org/problems/rotation4723/1) | Arrays | [FindKthRotation.java](src/arrays\FindKthRotation.java) |
-| 92 | Single Element in Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Arrays | [SingleElementinSortedArray.java](src/arrays\SingleElementinSortedArray.java) |
-| 93 | Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element) | Arrays | [FindPeakElement.java](src/arrays\FindPeakElement.java) |
-| 94 | Find the Peaks | [Link](https://leetcode.com/problems/find-the-peaks/) | Arrays | [FindthePeaks.java](src/arrays\FindthePeaks.java) |
-| 95 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | Arrays | [Sqrt(x).java](src/arrays\Sqrt(x).java) |
-| 96 | Find nth root of m | [Link](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Arrays | [Findnthrootofm.java](src/arrays\Findnthrootofm.java) |
-| 97 | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas) | Arrays | [KokoEatingBananas.java](src/arrays\KokoEatingBananas.java) |
-| 98 | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Arrays | [MinimumNumberofDaystoMakemBouquets.java](src/arrays\MinimumNumberofDaystoMakemBouquets.java) |
-| 99 | Find the Smallest Divisor Given a Threshold | [Link](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Arrays | [FindtheSmallestDivisorGivenaThreshold.java](src/arrays\FindtheSmallestDivisorGivenaThreshold.java) |
-| 100 | Capacity to ship packages within D Days | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Arrays | [CapacitytoshippackageswithinDDays.java](src/arrays\CapacitytoshippackageswithinDDays.java) |
-| 101 | Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | Arrays | [KthMissingPositiveNumber.java](src/arrays\KthMissingPositiveNumber.java) |
-| 102 | Aggressive Cows | [Link](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Arrays | [AggressiveCows.java](src/arrays\AggressiveCows.java) |
-| 103 | Magnetic Force Between Two Balls | [Link](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Arrays | [MagneticForceBetweenTwoBalls.java](src/arrays\MagneticForceBetweenTwoBalls.java) |
+| 79 | Binary Search | [Link](https://leetcode.com/problems/binary-search/) | Binary Search | [BinarySearch.java](src/arrays\BinarySearch.java) |
+| 80 | Implement Lower Bound | [Link](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Binary Search | [ImplementLowerBound.java](src/arrays\ImplementLowerBound.java) |
+| 81 | Implement Upper Bound | [Link](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Binary Search | [ImplementUpperBound.java](src/arrays\ImplementUpperBound.java) |
+| 82 | Ceil the floor | [Link](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1) | Binary Search | [Ceilthefloor.java](src/arrays\Ceilthefloor.java) |
+| 83 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position) | Binary Search | [SearchInsertPosition.java](src/arrays\SearchInsertPosition.java) |
+| 84 | Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Binary Search | [FindFirstandLastPositionofElementinSortedArray.java](src/arrays\FindFirstandLastPositionofElementinSortedArray.java) |
+| 85 | Number of occurrence | [Link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Binary Search | [Numberofoccurrence.java](src/arrays\Numberofoccurrence.java) |
+| 86 | Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | [SearchinRotatedSortedArray.java](src/arrays\SearchinRotatedSortedArray.java) |
+| 87 | Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Binary Search | [SearchinRotatedSortedArrayII.java](src/arrays\SearchinRotatedSortedArrayII.java) |
+| 88 | Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary Search | [FindMinimuminRotatedSortedArray.java](src/arrays\FindMinimuminRotatedSortedArray.java) |
+| 89 | Find Minimum in Rotated Sorted Array II | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Binary Search | [FindMinimuminRotatedSortedArrayII.java](src/arrays\FindMinimuminRotatedSortedArrayII.java) |
+| 90 | Check if Array Is Sorted and Rotated | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Binary Search | [CheckifArrayIsSortedandRotated.java](src/arrays\CheckifArrayIsSortedandRotated.java) |
+| 91 | Find Kth Rotation | [Link](https://www.geeksforgeeks.org/problems/rotation4723/1) | Binary Search | [FindKthRotation.java](src/arrays\FindKthRotation.java) |
+| 92 | Single Element in Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Binary Search | [SingleElementinSortedArray.java](src/arrays\SingleElementinSortedArray.java) |
+| 93 | Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element) | Binary Search | [FindPeakElement.java](src/arrays\FindPeakElement.java) |
+| 94 | Find the Peaks | [Link](https://leetcode.com/problems/find-the-peaks/) | Binary Search | [FindthePeaks.java](src/arrays\FindthePeaks.java) |
+| 95 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | Binary Search | [Sqrt(x).java](src/arrays\Sqrt(x).java) |
+| 96 | Find nth root of m | [Link](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Binary Search | [Findnthrootofm.java](src/arrays\Findnthrootofm.java) |
+| 97 | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas) | Binary Search | [KokoEatingBananas.java](src/arrays\KokoEatingBananas.java) |
+| 98 | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Binary Search | [MinimumNumberofDaystoMakemBouquets.java](src/arrays\MinimumNumberofDaystoMakemBouquets.java) |
+| 99 | Find the Smallest Divisor Given a Threshold | [Link](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Binary Search | [FindtheSmallestDivisorGivenaThreshold.java](src/arrays\FindtheSmallestDivisorGivenaThreshold.java) |
+| 100 | Capacity to ship packages within D Days | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Binary Search | [CapacitytoshippackageswithinDDays.java](src/arrays\CapacitytoshippackageswithinDDays.java) |
+| 101 | Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | Binary Search | [KthMissingPositiveNumber.java](src/arrays\KthMissingPositiveNumber.java) |
+| 102 | Aggressive Cows | [Link](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Binary Search | [AggressiveCows.java](src/arrays\AggressiveCows.java) |
+| 103 | Magnetic Force Between Two Balls | [Link](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Binary Search | [MagneticForceBetweenTwoBalls.java](src/arrays\MagneticForceBetweenTwoBalls.java) |
