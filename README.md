@@ -107,5 +107,4 @@
 | 103 | Magnetic Force Between Two Balls | [Link](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Binary Search | [MagneticForceBetweenTwoBalls.java](src/binarysearch/MagneticForceBetweenTwoBalls.java) |
 | 104 | Allocate Minimum Pages | [Link](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Binary search | [AllocateMinimumPages.java](src/binarysearch/AllocateMinimumPages.java) |
 | 105 | Split Array Largest Sum | [Link](https://leetcode.com/problems/split-array-largest-sum/) | Binary Search | [SplitArrayLargestSum.java](src/binarysearch/SplitArrayLargestSum.java) |
-| 106 | Minimize Max Distance to Gas Station | [Link](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | Binarysearch | [MinimizeMaxDistancetoGasStation.java](src/binarysearch/MinimizeMaxDistancetoGasStation.java) |
-src/binarysearch/AllocateMinimumPages.java
+| 106 | Minimize Max Distance to Gas Station | [Link](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | Binary Search | [MinimizeMaxDistancetoGasStation.java](src/binarysearch/MinimizeMaxDistancetoGasStation.java) |
