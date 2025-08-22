@@ -108,4 +108,4 @@
 | 104 | Allocate Minimum Pages | [Link](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Binary search | [AllocateMinimumPages.java](src/binarysearch/AllocateMinimumPages.java) |
 | 105 | Split Array Largest Sum | [Link](https://leetcode.com/problems/split-array-largest-sum/) | Binary Search | [SplitArrayLargestSum.java](src/binarysearch/SplitArrayLargestSum.java) |
 | 106 | Minimize Max Distance to Gas Station | [Link](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | Binary Search | [MinimizeMaxDistancetoGasStation.java](src/binarysearch/MinimizeMaxDistancetoGasStation.java) |
-| 107 | Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary search | [MedianofTwoSortedArrays.java](src/binary search\MedianofTwoSortedArrays.java) |
+| 107 | Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary search | [MedianofTwoSortedArrays.java](src/binarysearch\MedianofTwoSortedArrays.java) |
