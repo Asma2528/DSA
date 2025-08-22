@@ -109,3 +109,4 @@
 | 105 | Split Array Largest Sum | [Link](https://leetcode.com/problems/split-array-largest-sum/) | Binary Search | [SplitArrayLargestSum.java](src/binarysearch/SplitArrayLargestSum.java) |
 | 106 | Minimize Max Distance to Gas Station | [Link](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | Binary Search | [MinimizeMaxDistancetoGasStation.java](src/binarysearch/MinimizeMaxDistancetoGasStation.java) |
 | 107 | Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary search | [MedianofTwoSortedArrays.java](src/binarysearch\MedianofTwoSortedArrays.java) |
+| 108 | K-th element of two Arrays | [Link](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | Binarysearch | [K-thelementoftwoArrays.java](src/binarysearch\K-thelementoftwoArrays.java) |
