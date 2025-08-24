@@ -113,3 +113,4 @@
 | 109 | Row with max1s | [Link](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | Binarysearch | [Rowwithmax1s.java](src/binarysearch\Rowwithmax1s.java) |
 | 110 | Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | Binarysearch | [Searcha2DMatrix.java](src/binarysearch\Searcha2DMatrix.java) |
 | 111 | Search a 2D Matrix II | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Binarysearch | [Searcha2DMatrixII.java](src/binarysearch\Searcha2DMatrixII.java) |
+| 112 | Find a Peak Element II | [Link](https://leetcode.com/problems/find-a-peak-element-ii/) | Binarysearch | [FindaPeakElementII.java](src/binarysearch\FindaPeakElementII.java) |
