@@ -114,3 +114,4 @@
 | 110 | Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | Binarysearch | [Searcha2DMatrix.java](src/binarysearch\Searcha2DMatrix.java) |
 | 111 | Search a 2D Matrix II | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Binarysearch | [Searcha2DMatrixII.java](src/binarysearch\Searcha2DMatrixII.java) |
 | 112 | Find a Peak Element II | [Link](https://leetcode.com/problems/find-a-peak-element-ii/) | Binarysearch | [FindaPeakElementII.java](src/binarysearch\FindaPeakElementII.java) |
+| 113 | Median in a row-wise sorted Matrix | [Link](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Binarysearch | [Medianinarow-wisesortedMatrix.java](src/binarysearch\Medianinarow-wisesortedMatrix.java) |
