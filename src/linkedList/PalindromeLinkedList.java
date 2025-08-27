@@ -10,52 +10,82 @@
  * }
  */
 class Solution {
-       public ListNode findMiddle(ListNode head){
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast.next!=null && fast.next.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+    public ListNode findMiddle(ListNode head){
+        if(head==null || head.next==null){
+            return head;
         }
 
-        return slow;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast.next!=null && fast.next.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow.next;
     }
 
     public ListNode reverse(ListNode head){
-    if(head==null || head.next==null){
-        return head;
-    }
-    ListNode prev=null;
-    ListNode curr=head;
-    while(curr!=null){
-        ListNode temp=curr.next;
-        curr.next=prev;
-        prev=curr;
-        curr=temp;
-    }
-        return prev;
+        if(head==null || head.next==null){
+            return head;
+        }
+        ListNode temp = head;
+        ListNode back = null;
+
+        while(temp!=null){
+            ListNode front = temp.next;
+            temp.next = back;
+            back = temp;
+            temp = front;
+        }
+
+        return back;
     }
 
     public boolean isPalindrome(ListNode head) {
-            if (head == null || head.next == null) {
+        if (head == null || head.next == null) {
             return true;
         }
 
-        ListNode middle=findMiddle(head);
-        ListNode secondHalfHead=reverse(middle.next);
-        middle.next=null;
-        ListNode first=head;
-        ListNode second=secondHalfHead;
-        while(second!=null){
-            if(first.val!=second.val){
-                middle.next=reverse(secondHalfHead);
-                return false;
+        // Brute force approach
+        // TC - O(2N)
+        // SC - O(N)
+        // Stack<Integer> st = new Stack<>();
+        // ListNode temp = head;
+        // while(temp!=null){
+        //     st.push(temp.val);
+        //     temp = temp.next;
+        // }
 
+        // temp = head;
+        // while(temp!=null){
+        //     if(st.peek()!=temp.val){
+        //         return false;
+        //     }
+        //     temp = temp.next;
+        //     st.pop();
+        // }
+
+        // return true;
+
+        // Optimal approach
+        // TC - O(2N)
+        // SC - O(1)
+        ListNode middle = findMiddle(head);  // O(N/2)
+        ListNode newHead = reverse(middle);  // O(N/2)
+        ListNode first = head;
+        ListNode second = newHead;
+
+        while(second!=null){ // O(N/2)
+            if(first.val!=second.val){
+                newHead = reverse(newHead);  // O(N/2)
+                return false;
             }
-            first=first.next;
-            second=second.next;
+            first = first.next;
+            second = second.next;
         }
-        middle.next=reverse(secondHalfHead);
+
+        newHead = reverse(newHead);
         return true;
     }
 }
