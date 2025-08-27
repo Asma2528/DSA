@@ -1,58 +1,60 @@
-// Problem: https://leetcode.com/problems/linked-list-cycle-ii
-/**
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
-public class Solution {
+// Problem: https://www.geeksforgeeks.org/problems/find-length-of-loop/1
+/*
+class Node {
+    int data;
+    Node next;
 
-    public ListNode detectCycle(ListNode head) {
+    Node(int x) {
+        data = x;
+        next = null;
+    }
+}
+*/
+
+class Solution {
+    public int lengthOfLoop(Node head) {
         if (head == null || head.next == null) {
-            return null;
+            return 0;
         }
 
         // Brute force approach
         // TC - O(n)
         // SC - O(n)
-        // ListNode temp = head;
-        // Map<ListNode,Integer> map=new HashMap<>();
+        // Node temp = head;
+        // Map<Node,Integer> map=new HashMap<>();
         // int count = 0;
         // while(temp!=null){
         //     if(map.containsKey(temp)){
-        //         return temp;
+        //         return count - map.get(temp);
         //     }
         //     map.put(temp,count);
         //     count++;
         //     temp = temp.next;
         // }
 
-        // return null;
+        // return 0;
 
         // Optimal approach
         // TC - O(n)
         // SC - O(1)
-        ListNode slow = head;
-        ListNode fast = head;
-
+        Node slow = head;
+        Node fast = head;
+        
         while(fast!=null && fast.next!=null){
             slow = slow.next;
             fast = fast.next.next;
             if(slow==fast){
-                slow = head;
+                slow = slow.next;
+                int len = 1;
                 while(slow!=fast){
+                    len++;
                     slow = slow.next;
-                    fast = fast.next;
                 }
-                return slow;
+                return len;
             }
         }
 
-        return null;
+        return 0;
+        
     }
 }
