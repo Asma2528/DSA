@@ -117,3 +117,4 @@
 | 113 | Median in a row-wise sorted Matrix | [Link](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Binarysearch | [Medianinarow-wisesortedMatrix.java](src/binarysearch\Medianinarow-wisesortedMatrix.java) |
 | 114 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | Linkedlist | [AddTwoNumbers.java](src/linkedlist\AddTwoNumbers.java) |
 | 115 | Odd Even Linked List | [Link](https://leetcode.com/problems/odd-even-linked-list/) | Linkedlist | [OddEvenLinkedList.java](src/linkedlist\OddEvenLinkedList.java) |
+| 116 | Sort a linked list of 0s, 1s and 2s | [Link](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | Linkedlist | [Sortalinkedlistof0s,1sand2s.java](src/linkedlist\Sortalinkedlistof0s,1sand2s.java) |
