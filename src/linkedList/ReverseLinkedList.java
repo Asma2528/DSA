@@ -9,23 +9,62 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 class Solution {
     public ListNode reverseList(ListNode head) {
+        // Brute force approach - (Changing values)
+        // TC - O(2n)
+        // SC - O(n)
+        // Stack<Integer> st = new Stack<>();
+        // ListNode temp = head;
+
+        // while(temp != null){
+        //     st.push(temp.val);
+        //     temp = temp.next;
+        // }
+
+        // temp = head;
+        // while(temp != null){
+        //     temp.val = st.peek();
+        //     st.pop();
+        //     temp = temp.next;
+        // }
+
+        // return head;
+
+        // Recursive approach
+        // TC - O(n)
+        // SC - O(n) // for recursive stack
+        // if(head==null || head.next==null){
+        //     return head;
+        // }
+
+        // ListNode newHead = reverseList(head.next);
+
+        // ListNode front = head.next;
+        // front.next = head;
+        // head.next = null;
+
+        // return newHead;
+
+        // Iterative approach
+        // TC - O(n)
+        // SC - O(1) // for recursive stack
         if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode prev = null;
-        ListNode curr = head;
-        while (curr != null) {
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
+        ListNode temp = head;
+        ListNode back = null;
+
+        while (temp != null) {
+            ListNode front = temp.next;
+            temp.next = back;
+            back = temp;
+            temp = front;
         }
 
-        head = prev;
+        return back;
 
-        return head;
     }
 }
