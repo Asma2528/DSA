@@ -125,3 +125,4 @@
 | 121 | Intersection of Two Linked Lists | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Linkedlist | [IntersectionofTwoLinkedLists.java](src/linkedlist\IntersectionofTwoLinkedLists.java) |
 | 122 | Find pairs with given sum in doubly linked list | [Link](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | Linkedlist | [Findpairswithgivensumindoublylinkedlist.java](src/linkedlist\Findpairswithgivensumindoublylinkedlist.java) |
 | 123 | Remove duplicates from a sorted doubly linked list | [Link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Linkedlist | [Removeduplicatesfromasorteddoublylinkedlist.java](src/linkedlist\Removeduplicatesfromasorteddoublylinkedlist.java) |
+| 124 | Sort List | [Link](https://leetcode.com/problems/sort-list/) | Linkedlist | [SortList.java](src/linkedlist\SortList.java) |
