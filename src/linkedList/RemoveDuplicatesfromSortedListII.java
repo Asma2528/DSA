@@ -11,6 +11,8 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
+        //  TC - O(n)
+        //  SC - O(1)
         if (head == null || head.next == null) {
             return head;
         }
