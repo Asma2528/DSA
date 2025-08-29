@@ -11,26 +11,43 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
+        // TC - O(2n)
+        // SC - O(1)
+        /*
+        Idea:
+        Find the length of the list and last node of the list
+        Make the list circular by connecting tail to head.
+        Find k using k % len (in case k is bigger)
+        Find the new last node of rotated list (len - k)
+        Point next node of the last node as the new head
+        Point last node's next as null (to break the circular list)
+        */
         if (head == null || head.next == null) {
             return head;
         }
-        int size = 1;
-        ListNode curr = head;
-        while (curr.next != null) {
-            curr = curr.next;
-            size++;
-        }
 
-        curr.next = head;
-
-        int tailPos = size - (k % size);
+        int len = 1;
         ListNode tail = head;
-        for (int i = 1; i < tailPos; i++) {
+
+        while (tail.next != null) {
             tail = tail.next;
+            len++;
         }
 
-        head = tail.next;
-        tail.next = null;
+        if (k % len == 0)
+            return head;
+        k = k % len;
+        tail.next = head;
+        ListNode curr = head;
+        int count = len - k;
+
+        while (count != 1) {
+            curr = curr.next;
+            count--;
+        }
+
+        head = curr.next;
+        curr.next = null;
 
         return head;
     }
