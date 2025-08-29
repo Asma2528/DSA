@@ -11,7 +11,6 @@
  * }
  */
 public class Solution {
-
     public ListNode detectCycle(ListNode head) {
         if (head == null || head.next == null) {
             return null;
@@ -54,5 +53,11 @@ public class Solution {
         }
 
         return null;
+        /*
+        Summary:
+        Phase 1: Detect cycle using slow/fast pointers
+        Phase 2: Reset slow to head; move both one step at a time
+        Where they meet = start of the cycle
+        */
     }
 }
