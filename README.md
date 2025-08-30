@@ -126,3 +126,4 @@
 | 122 | Find pairs with given sum in doubly linked list | [Link](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | Linkedlist | [Findpairswithgivensumindoublylinkedlist.java](src/linkedlist\Findpairswithgivensumindoublylinkedlist.java) |
 | 123 | Remove duplicates from a sorted doubly linked list | [Link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Linkedlist | [Removeduplicatesfromasorteddoublylinkedlist.java](src/linkedlist\Removeduplicatesfromasorteddoublylinkedlist.java) |
 | 124 | Sort List | [Link](https://leetcode.com/problems/sort-list/) | Linkedlist | [SortList.java](src/linkedlist\SortList.java) |
+| 125 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Linkedlist | [ReverseNodesink-Group.java](src/linkedlist\ReverseNodesink-Group.java) |
