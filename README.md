@@ -127,3 +127,4 @@
 | 123 | Remove duplicates from a sorted doubly linked list | [Link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Linkedlist | [Removeduplicatesfromasorteddoublylinkedlist.java](src/linkedlist\Removeduplicatesfromasorteddoublylinkedlist.java) |
 | 124 | Sort List | [Link](https://leetcode.com/problems/sort-list/) | Linkedlist | [SortList.java](src/linkedlist\SortList.java) |
 | 125 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Linkedlist | [ReverseNodesink-Group.java](src/linkedlist\ReverseNodesink-Group.java) |
+| 126 | Flattening a Linked List | [Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Linkedlist | [FlatteningaLinkedList.java](src/linkedlist\FlatteningaLinkedList.java) |
