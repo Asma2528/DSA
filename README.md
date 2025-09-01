@@ -130,3 +130,4 @@
 | 126 | Flattening a Linked List | [Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Linkedlist | [FlatteningaLinkedList.java](src/linkedlist\FlatteningaLinkedList.java) |
 | 127 | Design Browser History | [Link](https://leetcode.com/problems/design-browser-history/) | Linkedlist | [DesignBrowserHistory.java](src/linkedlist\DesignBrowserHistory.java) |
 | 128 | Merge k Sorted Lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) | Linkedlist | [MergekSortedLists.java](src/linkedlist\MergekSortedLists.java) |
+| 129 | Maximum Points you can obtain from cards | [Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Twopointerandslidingwindow | [MaximumPointsyoucanobtainfromcards.java](src/twopointerandslidingwindow\MaximumPointsyoucanobtainfromcards.java) |
