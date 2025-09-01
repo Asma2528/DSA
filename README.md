@@ -131,3 +131,4 @@
 | 127 | Design Browser History | [Link](https://leetcode.com/problems/design-browser-history/) | Linkedlist | [DesignBrowserHistory.java](src/linkedlist\DesignBrowserHistory.java) |
 | 128 | Merge k Sorted Lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) | Linkedlist | [MergekSortedLists.java](src/linkedlist\MergekSortedLists.java) |
 | 129 | Maximum Points you can obtain from cards | [Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Twopointerandslidingwindow | [MaximumPointsyoucanobtainfromcards.java](src/twopointerandslidingwindow\MaximumPointsyoucanobtainfromcards.java) |
+| 130 | Longest Substring without repeating characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Twopointerandslidingwindow | [LongestSubstringwithoutrepeatingcharacters.java](src/twopointerandslidingwindow\LongestSubstringwithoutrepeatingcharacters.java) |
