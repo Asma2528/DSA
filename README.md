@@ -139,3 +139,4 @@
 | 135 | Longest Repeating Character Replacement | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) | Twopointerandslidingwindow | [LongestRepeatingCharacterReplacement.java](src/twopointerandslidingwindow\LongestRepeatingCharacterReplacement.java) |
 | 136 | Binary Subarrays With Sum | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | Twopointerandslidingwindow | [BinarySubarraysWithSum.java](src/twopointerandslidingwindow\BinarySubarraysWithSum.java) |
 | 137 | Count Number of Nice Subarrays | [Link](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Twopointerandslidingwindow | [CountNumberofNiceSubarrays.java](src/twopointerandslidingwindow\CountNumberofNiceSubarrays.java) |
+| 138 | Minimum Window Substring | [Link](https://leetcode.com/problems/minimum-window-substring) | Twopointerandslidingwindow | [MinimumWindowSubstring.java](src/twopointerandslidingwindow\MinimumWindowSubstring.java) |
