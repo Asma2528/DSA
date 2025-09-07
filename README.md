@@ -145,3 +145,4 @@
 | 141 | Maximum Matching of Players With Trainers | [Link](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Greedyalgorithm | [MaximumMatchingofPlayersWithTrainers.java](src/greedyalgorithm\MaximumMatchingofPlayersWithTrainers.java) |
 | 142 | Lemonade Change | [Link](https://leetcode.com/problems/lemonade-change/) | Greedyalgorithm | [LemonadeChange.java](src/greedyalgorithm\LemonadeChange.java) |
 | 143 | Shortest Job First | [Link](https://www.geeksforgeeks.org/problems/shortest-job-first/0) | Greedyalgorithm | [ShortestJobFirst.java](src/greedyalgorithm\ShortestJobFirst.java) |
+| 144 | Jump Game | [Link](https://leetcode.com/problems/jump-game/) | Greedyalgorithm | [JumpGame.java](src/greedyalgorithm\JumpGame.java) |
