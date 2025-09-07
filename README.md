@@ -141,3 +141,4 @@
 | 137 | Count Number of Nice Subarrays | [Link](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Twopointerandslidingwindow | [CountNumberofNiceSubarrays.java](src/twopointerandslidingwindow\CountNumberofNiceSubarrays.java) |
 | 138 | Minimum Window Substring | [Link](https://leetcode.com/problems/minimum-window-substring) | Twopointerandslidingwindow | [MinimumWindowSubstring.java](src/twopointerandslidingwindow\MinimumWindowSubstring.java) |
 | 139 | Subarrays with K Different Integers | [Link](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Twopointerandslidingwindow | [SubarrayswithKDifferentIntegers.java](src/twopointerandslidingwindow\SubarrayswithKDifferentIntegers.java) |
+| 140 | Assign Cookies | [Link](https://leetcode.com/problems/assign-cookies/) | Greedyalgorithm | [AssignCookies.java](src/greedyalgorithm\AssignCookies.java) |
