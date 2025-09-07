@@ -143,3 +143,4 @@
 | 139 | Subarrays with K Different Integers | [Link](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Twopointerandslidingwindow | [SubarrayswithKDifferentIntegers.java](src/twopointerandslidingwindow\SubarrayswithKDifferentIntegers.java) |
 | 140 | Assign Cookies | [Link](https://leetcode.com/problems/assign-cookies/) | Greedyalgorithm | [AssignCookies.java](src/greedyalgorithm\AssignCookies.java) |
 | 141 | Maximum Matching of Players With Trainers | [Link](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Greedyalgorithm | [MaximumMatchingofPlayersWithTrainers.java](src/greedyalgorithm\MaximumMatchingofPlayersWithTrainers.java) |
+| 142 | Lemonade Change | [Link](https://leetcode.com/problems/lemonade-change/) | Greedyalgorithm | [LemonadeChange.java](src/greedyalgorithm\LemonadeChange.java) |
