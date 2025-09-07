@@ -144,3 +144,4 @@
 | 140 | Assign Cookies | [Link](https://leetcode.com/problems/assign-cookies/) | Greedyalgorithm | [AssignCookies.java](src/greedyalgorithm\AssignCookies.java) |
 | 141 | Maximum Matching of Players With Trainers | [Link](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Greedyalgorithm | [MaximumMatchingofPlayersWithTrainers.java](src/greedyalgorithm\MaximumMatchingofPlayersWithTrainers.java) |
 | 142 | Lemonade Change | [Link](https://leetcode.com/problems/lemonade-change/) | Greedyalgorithm | [LemonadeChange.java](src/greedyalgorithm\LemonadeChange.java) |
+| 143 | Shortest Job First | [Link](https://www.geeksforgeeks.org/problems/shortest-job-first/0) | Greedyalgorithm | [ShortestJobFirst.java](src/greedyalgorithm\ShortestJobFirst.java) |
