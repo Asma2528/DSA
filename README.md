@@ -146,3 +146,4 @@
 | 142 | Lemonade Change | [Link](https://leetcode.com/problems/lemonade-change/) | Greedyalgorithm | [LemonadeChange.java](src/greedyalgorithm\LemonadeChange.java) |
 | 143 | Shortest Job First | [Link](https://www.geeksforgeeks.org/problems/shortest-job-first/0) | Greedyalgorithm | [ShortestJobFirst.java](src/greedyalgorithm\ShortestJobFirst.java) |
 | 144 | Jump Game | [Link](https://leetcode.com/problems/jump-game/) | Greedyalgorithm | [JumpGame.java](src/greedyalgorithm\JumpGame.java) |
+| 145 | N Meetings in one room | [Link](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | Greedyalgorithm | [NMeetingsinoneroom.java](src/greedyalgorithm\NMeetingsinoneroom.java) |
