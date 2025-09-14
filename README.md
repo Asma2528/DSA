@@ -148,3 +148,4 @@
 | 144 | Jump Game | [Link](https://leetcode.com/problems/jump-game/) | Greedyalgorithm | [JumpGame.java](src/greedyalgorithm\JumpGame.java) |
 | 145 | N Meetings in one room | [Link](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | Greedyalgorithm | [NMeetingsinoneroom.java](src/greedyalgorithm\NMeetingsinoneroom.java) |
 | 146 | Job Sequencing Problem | [Link](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Greedyalgorithm | [JobSequencingProblem.java](src/greedyalgorithm\JobSequencingProblem.java) |
+| 147 | Jump Game II | [Link](https://leetcode.com/problems/jump-game-ii/) | Greedyalgorithm | [JumpGameII.java](src/greedyalgorithm\JumpGameII.java) |
