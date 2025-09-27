@@ -40,3 +40,4 @@ class Solution {
         return countMinJumps(nums, 0, 0);
     }
 }
+
