@@ -150,4 +150,4 @@
 | 146 | Job Sequencing Problem | [Link](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | Greedyalgorithm | [JobSequencingProblem.java](src/greedyalgorithm\JobSequencingProblem.java) |
 | 147 | Jump Game II | [Link](https://leetcode.com/problems/jump-game-ii/) | Greedyalgorithm | [JumpGameII.java](src/greedyalgorithm\JumpGameII.java) |
 | 148 | Candy | [Link](https://leetcode.com/problems/candy/) | Greedyalgorithm | [Candy.java](src/greedyalgorithm\Candy.java) |
-| 149 | Jump Game II | [Link](https://leetcode.com/problems/jump-game-ii/) | Greedyalgorithm | [JumpGameII.java](src/greedyalgorithm\JumpGameII.java) |
+| 149 | Non overlapping intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | Greedyalgorithm | [Nonoverlappingintervals.java](src/greedyalgorithm\Nonoverlappingintervals.java) |
