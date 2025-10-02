@@ -10,22 +10,22 @@
 | 6 | Plus One | [Link](https://leetcode.com/problems/plus-one/) | Arrays | [PlusOne.java](src/arrays/PlusOne.java) |
 | 7 | Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Arrays | [BestTimetoBuyandSellStock.java](src/arrays/BestTimetoBuyandSellStock.java) |
 | 8 | Single Number | [Link](https://leetcode.com/problems/single-number) | Arrays | [SingleNumber.java](src/arrays/SingleNumber.java) |
-| 9 | Remove Nth Node from End of the list | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linkedlist | [RemoveNthNodefromEndofthelist.java](src/linkedlist/RemoveNthNodefromEndofthelist.java) |
-| 10 | Swap Nodes in Pairs | [Link](https://leetcode.com/problems/swap-nodes-in-pairs) | Linkedlist | [SwapNodesinPairs.java](src/linkedlist/SwapNodesinPairs.java) |
-| 11 | Palindrome Linked List | [Link](https://leetcode.com/problems/palindrome-linked-list) | Linkedlist | [PalindromeLinkedList.java](src/linkedlist/PalindromeLinkedList.java) |
-| 12 | Remove Linked list elements | [Link](https://leetcode.com/problems/remove-linked-list-elements) | Linkedlist | [RemoveLinkedlistelements.java](src/linkedlist/RemoveLinkedlistelements.java) |
-| 13 | Reverse Linked List | [Link](https://leetcode.com/problems/reverse-linked-list) | Linkedlist | [ReverseLinkedList.java](src/linkedlist/ReverseLinkedList.java) |
-| 14 | Middle of the Linked list | [Link](https://leetcode.com/problems/middle-of-the-linked-list) | Linkedlist | [MiddleoftheLinkedlist.java](src/linkedlist/MiddleoftheLinkedlist.java) |
-| 15 | Linked List Cycle | [Link](https://leetcode.com/problems/linked-list-cycle) | Linkedlist | [LinkedListCycle.java](src/linkedlist/LinkedListCycle.java) |
-| 16 | Linked list cycle 2 | [Link](https://leetcode.com/problems/linked-list-cycle-ii) | Linkedlist | [Linkedlistcycle2.java](src/linkedlist/Linkedlistcycle2.java) |
-| 17 | Rotate List | [Link](https://leetcode.com/problems/rotate-list) | Linkedlist | [RotateList.java](src/linkedlist/RotateList.java) |
-| 18 | Delete the Middle Node of a Linked List | [Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Linkedlist | [DeletetheMiddleNodeofaLinkedList.java](src/linkedlist/DeletetheMiddleNodeofaLinkedList.java) |
-| 19 | Convert Binary Number in a Linked List to Integer | [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linkedlist | [ConvertBinaryNumberinaLinkedListtoInteger.java](src/linkedlist/ConvertBinaryNumberinaLinkedListtoInteger.java) |
-| 20 | Remove Nodes From Linked List | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list) | Linkedlist | [RemoveNodesFromLinkedList.java](src/linkedlist/RemoveNodesFromLinkedList.java) |
-| 21 | Merge Two Sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists) | Linkedlist | [MergeTwoSortedlists.java](src/linkedlist/MergeTwoSortedlists.java) |
-| 22 | Remove Duplicates from sorted ist | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Linkedlist | [RemoveDuplicatesfromsortedist.java](src/linkedlist/RemoveDuplicatesfromsortedist.java) |
-| 23 | Delete Node in a Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list) | Linkedlist | [DeleteNodeinaLinkedList.java](src/linkedlist/DeleteNodeinaLinkedList.java) |
-| 24 | Remove Duplicates from Sorted List II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Linkedlist | [RemoveDuplicatesfromSortedListII.java](src/linkedlist/RemoveDuplicatesfromSortedListII.java) |
+| 9 | Remove Nth Node from End of the list | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linkedlist | [RemoveNthNodefromEndofthelist.java](src/LinkedList/RemoveNthNodefromEndofthelist.java) |
+| 10 | Swap Nodes in Pairs | [Link](https://leetcode.com/problems/swap-nodes-in-pairs) | Linkedlist | [SwapNodesinPairs.java](src/LinkedList/SwapNodesinPairs.java) |
+| 11 | Palindrome Linked List | [Link](https://leetcode.com/problems/palindrome-linked-list) | Linkedlist | [PalindromeLinkedList.java](src/LinkedList/PalindromeLinkedList.java) |
+| 12 | Remove Linked list elements | [Link](https://leetcode.com/problems/remove-linked-list-elements) | Linkedlist | [RemoveLinkedlistelements.java](src/LinkedList/RemoveLinkedlistelements.java) |
+| 13 | Reverse Linked List | [Link](https://leetcode.com/problems/reverse-linked-list) | Linkedlist | [ReverseLinkedList.java](src/LinkedList/ReverseLinkedList.java) |
+| 14 | Middle of the Linked list | [Link](https://leetcode.com/problems/middle-of-the-linked-list) | Linkedlist | [MiddleoftheLinkedlist.java](src/LinkedList/MiddleoftheLinkedlist.java) |
+| 15 | Linked List Cycle | [Link](https://leetcode.com/problems/linked-list-cycle) | Linkedlist | [LinkedListCycle.java](src/LinkedList/LinkedListCycle.java) |
+| 16 | Linked list cycle 2 | [Link](https://leetcode.com/problems/linked-list-cycle-ii) | Linkedlist | [Linkedlistcycle2.java](src/LinkedList/Linkedlistcycle2.java) |
+| 17 | Rotate List | [Link](https://leetcode.com/problems/rotate-list) | Linkedlist | [RotateList.java](src/LinkedList/RotateList.java) |
+| 18 | Delete the Middle Node of a Linked List | [Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Linkedlist | [DeletetheMiddleNodeofaLinkedList.java](src/LinkedList/DeletetheMiddleNodeofaLinkedList.java) |
+| 19 | Convert Binary Number in a Linked List to Integer | [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Linkedlist | [ConvertBinaryNumberinaLinkedListtoInteger.java](src/LinkedList/ConvertBinaryNumberinaLinkedListtoInteger.java) |
+| 20 | Remove Nodes From Linked List | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list) | Linkedlist | [RemoveNodesFromLinkedList.java](src/LinkedList/RemoveNodesFromLinkedList.java) |
+| 21 | Merge Two Sorted lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists) | Linkedlist | [MergeTwoSortedlists.java](src/LinkedList/MergeTwoSortedlists.java) |
+| 22 | Remove Duplicates from sorted ist | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Linkedlist | [RemoveDuplicatesfromsortedist.java](src/LinkedList/RemoveDuplicatesfromsortedist.java) |
+| 23 | Delete Node in a Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list) | Linkedlist | [DeleteNodeinaLinkedList.java](src/LinkedList/DeleteNodeinaLinkedList.java) |
+| 24 | Remove Duplicates from Sorted List II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Linkedlist | [RemoveDuplicatesfromSortedListII.java](src/LinkedList/RemoveDuplicatesfromSortedListII.java) |
 | 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack/BaseballGame.java) |
 | 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack/BackspaceStringCompare.java) |
 | 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack/ClearDigits.java) |
@@ -115,21 +115,21 @@
 | 111 | Search a 2D Matrix II | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Binarysearch | [Searcha2DMatrixII.java](src/binarysearch/Searcha2DMatrixII.java) |
 | 112 | Find a Peak Element II | [Link](https://leetcode.com/problems/find-a-peak-element-ii/) | Binarysearch | [FindaPeakElementII.java](src/binarysearch/FindaPeakElementII.java) |
 | 113 | Median in a row-wise sorted Matrix | [Link](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Binarysearch | [Medianinarow-wisesortedMatrix.java](src/binarysearch/Medianinarow-wisesortedMatrix.java) |
-| 114 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | Linkedlist | [AddTwoNumbers.java](src/linkedlist/AddTwoNumbers.java) |
-| 115 | Odd Even Linked List | [Link](https://leetcode.com/problems/odd-even-linked-list/) | Linkedlist | [OddEvenLinkedList.java](src/linkedlist/OddEvenLinkedList.java) |
-| 116 | Sort a linked list of 0s, 1s and 2s | [Link](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | Linkedlist | [Sortalinkedlistof0s,1sand2s.java](src/linkedlist/Sortalinkedlistof0s,1sand2s.java) |
-| 117 | Add 1 to a Linked List Number | [Link](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | Linkedlist | [Add1toaLinkedListNumber.java](src/linkedlist/Add1toaLinkedListNumber.java) |
-| 118 | Find length of Loop | [Link](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Linkedlist | [FindlengthofLoop.java](src/linkedlist/FindlengthofLoop.java) |
-| 119 | Delete all occurrences of a given key in a doubly linked list | [Link](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Linkedlist | [Deletealloccurrencesofagivenkeyinadoublylinkedlist.java](src/linkedlist/Deletealloccurrencesofagivenkeyinadoublylinkedlist.java) |
-| 120 | Delete Nodes From Linked List Present in Array | [Link](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Linkedlist | [DeleteNodesFromLinkedListPresentinArray.java](src/linkedlist/DeleteNodesFromLinkedListPresentinArray.java) |
-| 121 | Intersection of Two Linked Lists | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Linkedlist | [IntersectionofTwoLinkedLists.java](src/linkedlist/IntersectionofTwoLinkedLists.java) |
-| 122 | Find pairs with given sum in doubly linked list | [Link](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | Linkedlist | [Findpairswithgivensumindoublylinkedlist.java](src/linkedlist/Findpairswithgivensumindoublylinkedlist.java) |
-| 123 | Remove duplicates from a sorted doubly linked list | [Link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Linkedlist | [Removeduplicatesfromasorteddoublylinkedlist.java](src/linkedlist/Removeduplicatesfromasorteddoublylinkedlist.java) |
-| 124 | Sort List | [Link](https://leetcode.com/problems/sort-list/) | Linkedlist | [SortList.java](src/linkedlist/SortList.java) |
-| 125 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Linkedlist | [ReverseNodesink-Group.java](src/linkedlist/ReverseNodesink-Group.java) |
-| 126 | Flattening a Linked List | [Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Linkedlist | [FlatteningaLinkedList.java](src/linkedlist/FlatteningaLinkedList.java) |
-| 127 | Design Browser History | [Link](https://leetcode.com/problems/design-browser-history/) | Linkedlist | [DesignBrowserHistory.java](src/linkedlist/DesignBrowserHistory.java) |
-| 128 | Merge k Sorted Lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) | Linkedlist | [MergekSortedLists.java](src/linkedlist/MergekSortedLists.java) |
+| 114 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | Linkedlist | [AddTwoNumbers.java](src/LinkedList/AddTwoNumbers.java) |
+| 115 | Odd Even Linked List | [Link](https://leetcode.com/problems/odd-even-linked-list/) | Linkedlist | [OddEvenLinkedList.java](src/LinkedList/OddEvenLinkedList.java) |
+| 116 | Sort a linked list of 0s, 1s and 2s | [Link](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | Linkedlist | [Sortalinkedlistof0s,1sand2s.java](src/LinkedList/Sortalinkedlistof0s,1sand2s.java) |
+| 117 | Add 1 to a Linked List Number | [Link](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | Linkedlist | [Add1toaLinkedListNumber.java](src/LinkedList/Add1toaLinkedListNumber.java) |
+| 118 | Find length of Loop | [Link](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Linkedlist | [FindlengthofLoop.java](src/LinkedList/FindlengthofLoop.java) |
+| 119 | Delete all occurrences of a given key in a doubly linked list | [Link](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Linkedlist | [Deletealloccurrencesofagivenkeyinadoublylinkedlist.java](src/LinkedList/Deletealloccurrencesofagivenkeyinadoublylinkedlist.java) |
+| 120 | Delete Nodes From Linked List Present in Array | [Link](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Linkedlist | [DeleteNodesFromLinkedListPresentinArray.java](src/LinkedList/DeleteNodesFromLinkedListPresentinArray.java) |
+| 121 | Intersection of Two Linked Lists | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Linkedlist | [IntersectionofTwoLinkedLists.java](src/LinkedList/IntersectionofTwoLinkedLists.java) |
+| 122 | Find pairs with given sum in doubly linked list | [Link](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | Linkedlist | [Findpairswithgivensumindoublylinkedlist.java](src/LinkedList/Findpairswithgivensumindoublylinkedlist.java) |
+| 123 | Remove duplicates from a sorted doubly linked list | [Link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Linkedlist | [Removeduplicatesfromasorteddoublylinkedlist.java](src/LinkedList/Removeduplicatesfromasorteddoublylinkedlist.java) |
+| 124 | Sort List | [Link](https://leetcode.com/problems/sort-list/) | Linkedlist | [SortList.java](src/LinkedList/SortList.java) |
+| 125 | Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Linkedlist | [ReverseNodesink-Group.java](src/LinkedList/ReverseNodesink-Group.java) |
+| 126 | Flattening a Linked List | [Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Linkedlist | [FlatteningaLinkedList.java](src/LinkedList/FlatteningaLinkedList.java) |
+| 127 | Design Browser History | [Link](https://leetcode.com/problems/design-browser-history/) | Linkedlist | [DesignBrowserHistory.java](src/LinkedList/DesignBrowserHistory.java) |
+| 128 | Merge k Sorted Lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) | Linkedlist | [MergekSortedLists.java](src/LinkedList/MergekSortedLists.java) |
 | 129 | Maximum Points you can obtain from cards | [Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Twopointerandslidingwindow | [MaximumPointsyoucanobtainfromcards.java](src/twopointerandslidingwindow/MaximumPointsyoucanobtainfromcards.java) |
 | 130 | Longest Substring without repeating characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Twopointerandslidingwindow | [LongestSubstringwithoutrepeatingcharacters.java](src/twopointerandslidingwindow/LongestSubstringwithoutrepeatingcharacters.java) |
 | 131 | Max Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | Twopointerandslidingwindow | [MaxConsecutiveOnesIII.java](src/twopointerandslidingwindow/MaxConsecutiveOnesIII.java) |
