@@ -26,14 +26,14 @@
 | 22 | Remove Duplicates from sorted ist | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Linkedlist | [RemoveDuplicatesfromsortedist.java](src/linkedlist/RemoveDuplicatesfromsortedist.java) |
 | 23 | Delete Node in a Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list) | Linkedlist | [DeleteNodeinaLinkedList.java](src/linkedlist/DeleteNodeinaLinkedList.java) |
 | 24 | Remove Duplicates from Sorted List II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Linkedlist | [RemoveDuplicatesfromSortedListII.java](src/linkedlist/RemoveDuplicatesfromSortedListII.java) |
-| 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack\BaseballGame.java) |
-| 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack\BackspaceStringCompare.java) |
-| 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack\ClearDigits.java) |
-| 28 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) | Stack | [MinStack.java](src/stack\MinStack.java) |
+| 25 | Baseball Game | [Link](https://leetcode.com/problems/baseball-game) | Stack | [BaseballGame.java](src/stack/BaseballGame.java) |
+| 26 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare) | Stack | [BackspaceStringCompare.java](src/stack/BackspaceStringCompare.java) |
+| 27 | Clear Digits | [Link](https://leetcode.com/problems/clear-digits) | Stack | [ClearDigits.java](src/stack/ClearDigits.java) |
+| 28 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) | Stack | [MinStack.java](src/stack/MinStack.java) |
 | 29 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position) | Arrays | [SearchInsertPosition.java](src/arrays/SearchInsertPosition.java) |
 | 30 | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array) | Arrays | [MergeSortedArray.java](src/array/MergeSortedArray.java) |
 | 31 | Remove Duplicates from sorted array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Arrays | [RemoveDuplicatesfromsortedarray.java](src/array/RemoveDuplicatesfromsortedarray.java) |
-| 32 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number) | Math | [PalindromeNumber.java](src/math\PalindromeNumber.java) |
+| 32 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number) | Math | [PalindromeNumber.java](src/math/PalindromeNumber.java) |
 | 33 | Rotate Array | [Link](https://leetcode.com/problems/rotate-array) | Arrays | [RotateArray.java](src/arrays/RotateArray.java) |
 | 34 | Move Zeroes | [Link](https://leetcode.com/problems/move-zeroes/) | Arrays | [MoveZeroes.java](src/arrays/MoveZeroes.java) |
 | 35 | Check if its a straight line | [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Arrays | [Checkifitsastraightline.java](src/arrays/Checkifitsastraightline.java) |
