@@ -152,3 +152,4 @@
 | 148 | Candy | [Link](https://leetcode.com/problems/candy/) | Greedyalgorithm | [Candy.java](src/greedyalgorithm\Candy.java) |
 | 149 | Non overlapping intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | Greedyalgorithm | [Nonoverlappingintervals.java](src/greedyalgorithm\Nonoverlappingintervals.java) |
 | 150 | Insert Interval | [Link](https://leetcode.com/problems/insert-interval/) | Greedyalgorithm | [InsertInterval.java](src/greedyalgorithm\InsertInterval.java) |
+| 151 | Minimum Platforms | [Link](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Greedyalgorithm | [MinimumPlatforms.java](src/greedyalgorithm\MinimumPlatforms.java) |
