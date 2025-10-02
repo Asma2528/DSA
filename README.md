@@ -151,3 +151,4 @@
 | 147 | Jump Game II | [Link](https://leetcode.com/problems/jump-game-ii/) | Greedyalgorithm | [JumpGameII.java](src/greedyalgorithm\JumpGameII.java) |
 | 148 | Candy | [Link](https://leetcode.com/problems/candy/) | Greedyalgorithm | [Candy.java](src/greedyalgorithm\Candy.java) |
 | 149 | Non overlapping intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | Greedyalgorithm | [Nonoverlappingintervals.java](src/greedyalgorithm\Nonoverlappingintervals.java) |
+| 150 | Insert Interval | [Link](https://leetcode.com/problems/insert-interval/) | Greedyalgorithm | [InsertInterval.java](src/greedyalgorithm\InsertInterval.java) |
