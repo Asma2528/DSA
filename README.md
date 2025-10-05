@@ -158,3 +158,4 @@
 | 154 | Valid Parenthesis String | [Link](https://leetcode.com/problems/valid-parenthesis-string/) | Greedyalgorithm | [ValidParenthesisString.java](src/greedyalgorithm\ValidParenthesisString.java) |
 | 155 | Count Digits | [Link](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | Math | [CountDigits.java](src/math\CountDigits.java) |
 | 156 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | Math | [ReverseInteger.java](src/math\ReverseInteger.java) |
+| 157 | Armstrong Numbers | [Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Math | [ArmstrongNumbers.java](src/math\ArmstrongNumbers.java) |
