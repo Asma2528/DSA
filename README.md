@@ -156,3 +156,4 @@
 | 152 | Fractional Knapsack | [Link](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Greedyalgorithm | [FractionalKnapsack.java](src/greedyalgorithm\FractionalKnapsack.java) |
 | 153 | Maximum Units on a Truck | [Link](https://leetcode.com/problems/maximum-units-on-a-truck/) | Greedyalgorithm | [MaximumUnitsonaTruck.java](src/greedyalgorithm\MaximumUnitsonaTruck.java) |
 | 154 | Valid Parenthesis String | [Link](https://leetcode.com/problems/valid-parenthesis-string/) | Greedyalgorithm | [ValidParenthesisString.java](src/greedyalgorithm\ValidParenthesisString.java) |
+| 155 | Count Digits | [Link](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | Math | [CountDigits.java](src/math\CountDigits.java) |
