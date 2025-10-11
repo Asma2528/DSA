@@ -159,4 +159,5 @@
 | 155 | Count Digits | [Link](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | Math | [CountDigits.java](src/math\CountDigits.java) |
 | 156 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | Math | [ReverseInteger.java](src/math\ReverseInteger.java) |
 | 157 | Armstrong Numbers | [Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Math | [ArmstrongNumbers.java](src/math\ArmstrongNumbers.java) |
-| 158 | All divisors of a Number | [Link](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Maths | [AlldivisorsofaNumber.java](src/maths\AlldivisorsofaNumber.java) |
+| 158 | All divisors of a Number | [Link](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Math | [AlldivisorsofaNumber.java](src/maths\AlldivisorsofaNumber.java) |
+| 159 | Prime Number | [Link](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Math | [PrimeNumber.java](src/math\PrimeNumber.java) |
