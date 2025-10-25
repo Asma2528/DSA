@@ -162,3 +162,4 @@
 | 158 | All divisors of a Number | [Link](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Math | [AlldivisorsofaNumber.java](src/math/AlldivisorsofaNumber.java) |
 | 159 | Prime Number | [Link](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Math | [PrimeNumber.java](src/math/PrimeNumber.java) |
 | 160 | GCD of two numbers | [Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Math | [GCDoftwonumbers.java](src/math\GCDoftwonumbers.java) |
+| 161 | Find Greatest Common Divisor of Array | [Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Math | [FindGreatestCommonDivisorofArray.java](src/math\FindGreatestCommonDivisorofArray.java) |
