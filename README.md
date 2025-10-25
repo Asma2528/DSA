@@ -161,3 +161,4 @@
 | 157 | Armstrong Numbers | [Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Math | [ArmstrongNumbers.java](src/math/ArmstrongNumbers.java) |
 | 158 | All divisors of a Number | [Link](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Math | [AlldivisorsofaNumber.java](src/math/AlldivisorsofaNumber.java) |
 | 159 | Prime Number | [Link](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Math | [PrimeNumber.java](src/math/PrimeNumber.java) |
+| 160 | GCD of two numbers | [Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Math | [GCDoftwonumbers.java](src/math\GCDoftwonumbers.java) |
