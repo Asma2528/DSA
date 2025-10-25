@@ -153,11 +153,11 @@
 | 149 | Non overlapping intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | Greedyalgorithm | [Nonoverlappingintervals.java](src/greedyalgorithm/Nonoverlappingintervals.java) |
 | 150 | Insert Interval | [Link](https://leetcode.com/problems/insert-interval/) | Greedyalgorithm | [InsertInterval.java](src/greedyalgorithm/InsertInterval.java) |
 | 151 | Minimum Platforms | [Link](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Greedyalgorithm | [MinimumPlatforms.java](src/greedyalgorithm/MinimumPlatforms.java) |
-| 152 | Fractional Knapsack | [Link](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Greedyalgorithm | [FractionalKnapsack.java](src/greedyalgorithm\FractionalKnapsack.java) |
-| 153 | Maximum Units on a Truck | [Link](https://leetcode.com/problems/maximum-units-on-a-truck/) | Greedyalgorithm | [MaximumUnitsonaTruck.java](src/greedyalgorithm\MaximumUnitsonaTruck.java) |
-| 154 | Valid Parenthesis String | [Link](https://leetcode.com/problems/valid-parenthesis-string/) | Greedyalgorithm | [ValidParenthesisString.java](src/greedyalgorithm\ValidParenthesisString.java) |
-| 155 | Count Digits | [Link](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | Math | [CountDigits.java](src/math\CountDigits.java) |
-| 156 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | Math | [ReverseInteger.java](src/math\ReverseInteger.java) |
-| 157 | Armstrong Numbers | [Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Math | [ArmstrongNumbers.java](src/math\ArmstrongNumbers.java) |
-| 158 | All divisors of a Number | [Link](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Math | [AlldivisorsofaNumber.java](src/maths\AlldivisorsofaNumber.java) |
-| 159 | Prime Number | [Link](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Math | [PrimeNumber.java](src/math\PrimeNumber.java) |
+| 152 | Fractional Knapsack | [Link](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Greedyalgorithm | [FractionalKnapsack.java](src/greedyalgorithm/FractionalKnapsack.java) |
+| 153 | Maximum Units on a Truck | [Link](https://leetcode.com/problems/maximum-units-on-a-truck/) | Greedyalgorithm | [MaximumUnitsonaTruck.java](src/greedyalgorithm/MaximumUnitsonaTruck.java) |
+| 154 | Valid Parenthesis String | [Link](https://leetcode.com/problems/valid-parenthesis-string/) | Greedyalgorithm | [ValidParenthesisString.java](src/greedyalgorithm/ValidParenthesisString.java) |
+| 155 | Count Digits | [Link](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | Math | [CountDigits.java](src/math/CountDigits.java) |
+| 156 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | Math | [ReverseInteger.java](src/math/ReverseInteger.java) |
+| 157 | Armstrong Numbers | [Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Math | [ArmstrongNumbers.java](src/math/ArmstrongNumbers.java) |
+| 158 | All divisors of a Number | [Link](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Math | [AlldivisorsofaNumber.java](src/math/AlldivisorsofaNumber.java) |
+| 159 | Prime Number | [Link](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Math | [PrimeNumber.java](src/math/PrimeNumber.java) |
