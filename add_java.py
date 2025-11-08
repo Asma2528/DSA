@@ -31,7 +31,7 @@ with open(file_path, "w", encoding="utf-8") as f:
 readme_path = "README.md"
 if not os.path.exists(readme_path):
     with open(readme_path, "w") as f:
-        f.write("# 💻 DSA Java Solutions\n\n| # | Problem | Link | Topic | Code |\n|--|---------|------|--------|------|\n")
+        f.write("#  DSA Java Solutions\n\n| # | Problem | Link | Topic | Code |\n|--|---------|------|--------|------|\n")
 
 # Count current problems
 with open(readme_path, "r") as f:
@@ -42,8 +42,9 @@ with open(readme_path, "r") as f:
         if len(parts) >= 5 and parts[1].strip().isdigit():
             count = max(count, int(parts[1].strip()))
 
-with open(readme_path, "a") as f:
-    f.write(f"| {count + 1} | {problem_title} | [Link]({url}) | {topic.capitalize()} | [{file_name}]({file_path}) |\n")
+file_path_md = file_path.replace("\\", "/")
+with open(readme_path, "a", encoding="utf-8") as f:
+    f.write(f"| {count + 1} | {problem_title} | [Link]({url}) | {topic.capitalize()} | [{file_name}]({file_path_md}) |\n")
 
 # === Git Add/Commit/Push ===
 subprocess.run(["git", "add", "."])
