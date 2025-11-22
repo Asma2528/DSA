@@ -166,3 +166,4 @@
 | 162 | Prime factors | [Link](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | Maths | [Primefactors.java](src/math/Primefactors.java) |
 | 163 | Pow(x,n) | [Link](https://leetcode.com/problems/powx-n/) | Maths | [Pow(x,n).java](src/maths/Pow(x,n).java) |
 | 164 | Sieve of Eratosthenes | [Link](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/) | Maths | [SieveofEratosthenes.java](src/maths/SieveofEratosthenes.java) |
+| 165 | Count primes | [Link](https://leetcode.com/problems/count-primes/) | Maths | [Countprimes.java](src/maths/Countprimes.java) |
