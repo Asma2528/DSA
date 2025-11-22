@@ -163,4 +163,5 @@
 | 159 | Prime Number | [Link](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Math | [PrimeNumber.java](src/math/PrimeNumber.java) |
 | 160 | GCD of two numbers | [Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Math | [GCDoftwonumbers.java](src/math/GCDoftwonumbers.java) |
 | 161 | Find Greatest Common Divisor of Array | [Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Math | [FindGreatestCommonDivisorofArray.java](src/math/FindGreatestCommonDivisorofArray.java) |
-| 162 | Prime factors | [Link](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | Maths | [Primefactors.java](src/maths/Primefactors.java) |
+| 162 | Prime factors | [Link](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | Maths | [Primefactors.java](src/math/Primefactors.java) |
+| 163 | Pow(x,n) | [Link](https://leetcode.com/problems/powx-n/) | Maths | [Pow(x,n).java](src/maths/Pow(x,n).java) |

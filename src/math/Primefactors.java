@@ -67,4 +67,4 @@ class Solution {
         return factors;
     }
 }
-end
+
