@@ -167,3 +167,4 @@
 | 163 | Pow(x,n) | [Link](https://leetcode.com/problems/powx-n/) | Maths | [Pow(x,n).java](src/maths/Pow(x,n).java) |
 | 164 | Sieve of Eratosthenes | [Link](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/) | Maths | [SieveofEratosthenes.java](src/maths/SieveofEratosthenes.java) |
 | 165 | Count primes | [Link](https://leetcode.com/problems/count-primes/) | Maths | [Countprimes.java](src/maths/Countprimes.java) |
+| 166 | Count Prime in Range | [Link](https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1) | Maths | [CountPrimeinRange.java](src/maths/CountPrimeinRange.java) |
