@@ -170,3 +170,4 @@
 | 166 | Count Prime in Range | [Link](https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1) | Maths | [CountPrimeinRange.java](src/maths/CountPrimeinRange.java) |
 | 167 | Count primes in ranges query based | [Link](https://www.geeksforgeeks.org/dsa/count-primes-ranges/) | Maths | [Countprimesinrangesquerybased.java](src/maths/Countprimesinrangesquerybased.java) |
 | 168 | Least prime factor | [Link](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Maths | [Leastprimefactor.java](src/maths/Leastprimefactor.java) |
+| 169 | Binary number to decimal number | [Link](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | Bit manipulation | [Binarynumbertodecimalnumber.java](src/bit manipulation/Binarynumbertodecimalnumber.java) |
