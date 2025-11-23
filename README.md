@@ -169,3 +169,4 @@
 | 165 | Count primes | [Link](https://leetcode.com/problems/count-primes/) | Maths | [Countprimes.java](src/maths/Countprimes.java) |
 | 166 | Count Prime in Range | [Link](https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1) | Maths | [CountPrimeinRange.java](src/maths/CountPrimeinRange.java) |
 | 167 | Count primes in ranges query based | [Link](https://www.geeksforgeeks.org/dsa/count-primes-ranges/) | Maths | [Countprimesinrangesquerybased.java](src/maths/Countprimesinrangesquerybased.java) |
+| 168 | Least prime factor | [Link](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Maths | [Leastprimefactor.java](src/maths/Leastprimefactor.java) |
