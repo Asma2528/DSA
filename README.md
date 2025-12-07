@@ -172,3 +172,4 @@
 | 168 | Least prime factor | [Link](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Maths | [Leastprimefactor.java](src/maths/Leastprimefactor.java) |
 | 169 | Binary number to decimal number | [Link](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | Bit manipulation | [Binarynumbertodecimalnumber.java](src/bit manipulation/Binarynumbertodecimalnumber.java) |
 | 170 | Decimal to binary | [Link](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | Bit manipulation | [Decimaltobinary.java](src/bit manipulation/Decimaltobinary.java) |
+| 171 | Bit Manipulation | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | Bitmanipulation | [BitManipulation.java](src/bitmanipulation/BitManipulation.java) |
