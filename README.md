@@ -175,3 +175,4 @@
 | 171 | Bit Manipulation | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | Bitmanipulation | [BitManipulation.java](src/bitmanipulation/BitManipulation.java) |
 | 172 | Toggle bits in the given range | [Link](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Bitmanipulation | [Togglebitsinthegivenrange.java](src/bitmanipulation/Togglebitsinthegivenrange.java) |
 | 173 | Swap two numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | Bitmanipulation | [Swaptwonumbers.java](src/bitmanipulation/Swaptwonumbers.java) |
+| 174 | Set the rightmost unset bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Bitmanipulation | [Settherightmostunsetbit.java](src/bitmanipulation/Settherightmostunsetbit.java) |
