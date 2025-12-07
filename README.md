@@ -177,3 +177,4 @@
 | 173 | Swap two numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | Bitmanipulation | [Swaptwonumbers.java](src/bitmanipulation/Swaptwonumbers.java) |
 | 174 | Set the rightmost unset bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Bitmanipulation | [Settherightmostunsetbit.java](src/bitmanipulation/Settherightmostunsetbit.java) |
 | 175 | Power of Two | [Link](https://leetcode.com/problems/power-of-two/) | Bitmanipulation | [PowerofTwo.java](src/bitmanipulation/PowerofTwo.java) |
+| 176 | Number of 1 bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | Bitmanipulation | [Numberof1bits.java](src/bitmanipulation/Numberof1bits.java) |
