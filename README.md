@@ -170,7 +170,8 @@
 | 166 | Count Prime in Range | [Link](https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1) | Maths | [CountPrimeinRange.java](src/maths/CountPrimeinRange.java) |
 | 167 | Count primes in ranges query based | [Link](https://www.geeksforgeeks.org/dsa/count-primes-ranges/) | Maths | [Countprimesinrangesquerybased.java](src/maths/Countprimesinrangesquerybased.java) |
 | 168 | Least prime factor | [Link](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Maths | [Leastprimefactor.java](src/maths/Leastprimefactor.java) |
-| 169 | Binary number to decimal number | [Link](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | Bit manipulation | [Binarynumbertodecimalnumber.java](src/bit manipulation/Binarynumbertodecimalnumber.java) |
-| 170 | Decimal to binary | [Link](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | Bit manipulation | [Decimaltobinary.java](src/bit manipulation/Decimaltobinary.java) |
+| 169 | Binary number to decimal number | [Link](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | Bitmanipulation | [Binarynumbertodecimalnumber.java](src/bitmanipulation/Binarynumbertodecimalnumber.java) |
+| 170 | Decimal to binary | [Link](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | Bitmanipulation | [Decimaltobinary.java](src/bitmanipulation/Decimaltobinary.java) |
 | 171 | Bit Manipulation | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | Bitmanipulation | [BitManipulation.java](src/bitmanipulation/BitManipulation.java) |
 | 172 | Toggle bits in the given range | [Link](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Bitmanipulation | [Togglebitsinthegivenrange.java](src/bitmanipulation/Togglebitsinthegivenrange.java) |
+| 173 | Swap two numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | Bitmanipulation | [Swaptwonumbers.java](src/bitmanipulation/Swaptwonumbers.java) |
