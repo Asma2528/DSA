@@ -184,3 +184,4 @@
 | 180 | Single Number II | [Link](https://leetcode.com/problems/single-number-ii/) | Bitmanipulation | [SingleNumberII.java](src/bitmanipulation/SingleNumberII.java) |
 | 181 | Single Number III | [Link](https://leetcode.com/problems/single-number-iii/) | Bitmanipulation | [SingleNumberIII.java](src/bitmanipulation/SingleNumberIII.java) |
 | 182 | XOR Operation in an Array | [Link](https://leetcode.com/problems/xor-operation-in-an-array/) | Bitmanipulation | [XOROperationinanArray.java](src/bitmanipulation/XOROperationinanArray.java) |
+| 183 | Find XOR of numbers from L to R | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Bitmanipulation | [FindXORofnumbersfromLtoR.java](src/bitmanipulation/FindXORofnumbersfromLtoR.java) |
