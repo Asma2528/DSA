@@ -7,24 +7,35 @@ Enter topic (e.g., arrays, strings, dp): recursion
 Enter URL: https://www.geeksforgeeks.org/problems/reverse-an-array/1
 Paste your Java solution below (end input with `END` on a new line):
 class Solution {
-    public void reverse(int arr[], int i, int j){
+    public boolean checkPalindrome(String s, int i, int j){
         if(i>=j){
-            return;
+            return true;
         }
 
-        // swap arr[i] and arr[j]
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
+        // Skip non-alphanumeric from left
+        if (!Character.isLetterOrDigit(s.charAt(i))) {
+            return checkPalindrome(s, i + 1, j);
+        }
 
-        reverse(arr, i+1, j-1);
+        // Skip non-alphanumeric from right
+        if (!Character.isLetterOrDigit(s.charAt(j))) {
+            return checkPalindrome(s, i, j - 1);
+        }
+
+        // Compare characters (case-insensitive)
+        if (Character.toUpperCase(s.charAt(i)) !=
+                Character.toUpperCase(s.charAt(j))) {
+            return false;
+        }
+
+        return checkPalindrome(s, i + 1, j - 1);
     }
 
-    public void reverseArray(int arr[]) {
+    public boolean isPalindrome(String s) {
         // Using recursion
-        // TC - O(n)
-        // SC - O(n) recursive stack space
-        reverse(arr,0,arr.length-1);
+        // TC - O(n) - n is length of string
+        // SC - O(n) - recursive stack space
 
+        return checkPalindrome(s,0,s.length()-1);
     }
 }

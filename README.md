@@ -164,12 +164,12 @@
 | 160 | GCD of two numbers | [Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Math | [GCDoftwonumbers.java](src/math/GCDoftwonumbers.java) |
 | 161 | Find Greatest Common Divisor of Array | [Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Math | [FindGreatestCommonDivisorofArray.java](src/math/FindGreatestCommonDivisorofArray.java) |
 | 162 | Prime factors | [Link](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | Maths | [Primefactors.java](src/math/Primefactors.java) |
-| 163 | Pow(x,n) | [Link](https://leetcode.com/problems/powx-n/) | Maths | [Pow(x,n).java](src/maths/Pow(x,n).java) |
-| 164 | Sieve of Eratosthenes | [Link](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/) | Maths | [SieveofEratosthenes.java](src/maths/SieveofEratosthenes.java) |
-| 165 | Count primes | [Link](https://leetcode.com/problems/count-primes/) | Maths | [Countprimes.java](src/maths/Countprimes.java) |
-| 166 | Count Prime in Range | [Link](https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1) | Maths | [CountPrimeinRange.java](src/maths/CountPrimeinRange.java) |
-| 167 | Count primes in ranges query based | [Link](https://www.geeksforgeeks.org/dsa/count-primes-ranges/) | Maths | [Countprimesinrangesquerybased.java](src/maths/Countprimesinrangesquerybased.java) |
-| 168 | Least prime factor | [Link](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Maths | [Leastprimefactor.java](src/maths/Leastprimefactor.java) |
+| 163 | Pow(x,n) | [Link](https://leetcode.com/problems/powx-n/) | Maths | [Pow(x,n).java](src/math/Pow(x,n).java) |
+| 164 | Sieve of Eratosthenes | [Link](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/) | Maths | [SieveofEratosthenes.java](src/math/SieveofEratosthenes.java) |
+| 165 | Count primes | [Link](https://leetcode.com/problems/count-primes/) | Maths | [Countprimes.java](src/math/Countprimes.java) |
+| 166 | Count Prime in Range | [Link](https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1) | Maths | [CountPrimeinRange.java](src/math/CountPrimeinRange.java) |
+| 167 | Count primes in ranges query based | [Link](https://www.geeksforgeeks.org/dsa/count-primes-ranges/) | Maths | [Countprimesinrangesquerybased.java](src/math/Countprimesinrangesquerybased.java) |
+| 168 | Least prime factor | [Link](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Maths | [Leastprimefactor.java](src/math/Leastprimefactor.java) |
 | 169 | Binary number to decimal number | [Link](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | Bitmanipulation | [Binarynumbertodecimalnumber.java](src/bitmanipulation/Binarynumbertodecimalnumber.java) |
 | 170 | Decimal to binary | [Link](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | Bitmanipulation | [Decimaltobinary.java](src/bitmanipulation/Decimaltobinary.java) |
 | 171 | Bit Manipulation | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | Bitmanipulation | [BitManipulation.java](src/bitmanipulation/BitManipulation.java) |
@@ -189,3 +189,4 @@
 | 185 | Divide Two Integers | [Link](https://leetcode.com/problems/divide-two-integers/) | Bitmanipulation | [DivideTwoIntegers.java](src/bitmanipulation/DivideTwoIntegers.java) |
 | 186 | Reverse an array | [Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Recursion | [Reverseanarray.java](src/recursion/Reverseanarray.java) |
 | 187 | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | Recursion | [ValidPalindrome.java](src/recursion/ValidPalindrome.java) |
+| 188 | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number) | Recursion | [FibonacciNumber.java](src/recursion/FibonacciNumber.java) |
