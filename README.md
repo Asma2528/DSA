@@ -190,3 +190,4 @@
 | 186 | Reverse an array | [Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Recursion | [Reverseanarray.java](src/recursion/Reverseanarray.java) |
 | 187 | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | Recursion | [ValidPalindrome.java](src/recursion/ValidPalindrome.java) |
 | 188 | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number) | Recursion | [FibonacciNumber.java](src/recursion/FibonacciNumber.java) |
+| 189 | Subsets | [Link](https://leetcode.com/problems/subsets/) | Recursion | [Subsets.java](src/recursion/Subsets.java) |
